@@ -109,3 +109,80 @@ Absences, unless for documented illness, emergency, or university business, will
 of participation points. More than 5 absences may result in an “F” for the semester.
 
 <span>**Schedule:**</span>
+
+## Introduction to the 1960s/ Methods
+
+Jan 9: Introduction
+
+Jan 11: 
+
+Jan 16: No Class MLK Day
+
+Jan 18: Library Session
+
+Jan 23:
+
+Jan 25: DH and Mapping 
+
+
+## Documentary
+
+Jan 30:
+
+Feb 1:
+
+## Civil Rights
+
+Feb 6:
+
+Feb 8:
+
+Feb 13:
+
+Feb 15:
+
+Feb 20:
+
+Feb 22:
+
+## War On Poverty
+
+Feb 27:
+
+March 1:
+
+March 6: Spring Break
+
+March 8: Spring Break
+
+March 13:
+
+March 15:
+
+March 20:
+
+March 22:
+
+## New Left
+
+March 27:
+
+March 29:
+
+April 3:
+
+April 5:
+
+April 10:
+
+April 12:
+
+#
+
+April 17: 
+
+April 19: 
+
+
+
+
