@@ -135,6 +135,11 @@ Feb 1: *Doing Documentary Work* - Ch 3,4, Epilogue
 
 ## Civil Rights
 
+Maybe put The Americans here?  
+*Takin’ It to the Streets* -  “’Past as Prologue:’ The 1950s as an Introduction
+to the 1960s” (1-11).
+*American Divided* -  Ch 1: Gathering of the Forces (6-20)
+
 Feb 6: Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and 
 Photography of the Civil Rights Movement,” American Quarterly 59:4 (December 2007). Make sure you are on the UR server to access: https://muse.jhu.edu/article/228183/pdf
 
@@ -154,13 +159,15 @@ Let's analyze the first 5 minutes.  What is the director doing? How? Message? (G
 
 Feb 22: Black Power
 Reading from Black Power TV?
-Black Journal Debut Episode (1968): Watch 39:00 to 48:30
+[Black Journal Debut Episode (1968)](http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/#): Watch 39:00 to 48:30
 How would you charachterize the episodes treatment of Black Power?
 Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
 
 ## War On Poverty
 
-Feb 27:
+Feb 27: *American Divided* -  Ch 6: The Rise of the Great Society (97-119)
+
+Johnson Great Society Speech
 
 March 1:
 
@@ -184,11 +191,12 @@ March 29:
 
 April 3:
 
-April 5:
+April 5:  Democractic National Convention 1968
+[Ameirca Against Itself](http://richmond.kanopystreaming.com/video/america-against-itself)
 
 April 10:
 
-April 12:
+April 12: David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316)
 
 ## Final Project
 
