@@ -163,33 +163,38 @@ Reading from Black Power TV?
 How would you charachterize the episodes treatment of Black Power?
 Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
 
+Maybe? Black Panther. Newsreel. https://search.alexanderstreet.com/view/work/1857868
+
 ## War On Poverty
 
 Feb 27: *American Divided* -  Ch 6: The Rise of the Great Society (97-119)
 
 Johnson Great Society Speech
 
-March 1:
+March 1: The Other America
 
 March 6: Spring Break
 
 March 8: Spring Break
 
-March 13:
+March 13: Life Magazine "Valley of Poverty"
 
-March 15:
+March 15: Harvest of Shame?
 
-March 20:
+March 20: 
 
 March 22:
 
 ## New Left
 
-March 27:
+March 27: SDS and the Port Huron Statement 
 
-March 29:
+March 29: Underground Press
+Smoking Typewriters - Ch?
 
-April 3:
+
+April 3: Columbia Student Take-Over
+[Columbia University student strike](https://search.alexanderstreet.com/view/work/1787305)
 
 April 5:  Democractic National Convention 1968
 [Ameirca Against Itself](http://richmond.kanopystreaming.com/video/america-against-itself)
