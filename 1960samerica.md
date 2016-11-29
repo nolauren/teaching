@@ -61,6 +61,8 @@ image or drawing that relates to the week’s topic, close read their selection,
 and discuss how it relates to the week’s readings.  The group will write a blog post (500 words), 
 present their argument in class, and lead discussion. 
 
+Collaborative Timeline: As a class, we will build a timeline of major events during the 1960s. Each class, pick an event to add to our timeline. Intructions for adding an event will be provided.
+
 - Paper 1: Close analysis of a photograph. (1500 words) Instructions and rubric discussed in class. 
 
 - Paper 2: Close analysis of a film. (1500 words) Instructions and rubric discussed in class. 
@@ -120,30 +122,41 @@ Jan 16: No Class MLK Day
 
 Jan 18: Library Session
 
-Jan 23:
+Jan 23: 
 
 Jan 25: DH and Mapping 
 
 
 ## Documentary
 
-Jan 30:
+Jan 30: *Doing Documentary Work* - Introduction, Ch 1,2
 
-Feb 1:
+Feb 1: *Doing Documentary Work* - Ch 3,4, Epilogue
 
 ## Civil Rights
 
-Feb 6:
+Feb 6: Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and 
+Photography of the Civil Rights Movement,” American Quarterly 59:4 (December 2007). Make sure you are on the UR server to access: https://muse.jhu.edu/article/228183/pdf
 
-Feb 8:
+Feb 8:  Reading Photographs - Listen to ["Unrest in Baton Rouge: Anatomy of a Photograph"]( http://www.wnyc.org/story/unrest-baton-rouge/) and explore The Movement (Danny Lyon). Pick a photograph to discuss in class. 
 
-Feb 13:
+Feb 13: *Black, White, and Colored: Television  and Black Civil Rights* - Ch 2: “The Double Life of Sit-In.” Watch [NBC White Paper: Sit-In](http://www.nbcuniversalarchives.com/nbcuni/clip/51A02201_s01.do) (1960, 56 min).
 
-Feb 15:
+Feb 15: Excerpt of “Sound,” (76-83) in Ed Sikov, Film Studies: An Introduction; and 
+Listen: [KPFA’s 1963 radio documentary Freedom Now!](http://www.kpfahistory.info/pa/freedom_now.html) Please listen to Part I. 
 
-Feb 20:
+- We will listen to the first ten minutes of Part II in class.
 
-Feb 22:
+Feb 20: 
+
+In class: First 10 minutes of [*"King: A Filmed Record.... Montgomery to Memphis"*](http://richmond.kanopystreaming.com/video/king-filmed-record-montgomery-memphis-part-1) 
+Let's analyze the first 5 minutes.  What is the director doing? How? Message? (Going back and forth between MLK and BPP)
+
+Feb 22: Black Power
+Reading from Black Power TV?
+Black Journal Debut Episode (1968): Watch 39:00 to 48:30
+How would you charachterize the episodes treatment of Black Power?
+Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
 
 ## War On Poverty
 
