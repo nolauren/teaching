@@ -152,16 +152,18 @@ Listen: [KPFA’s 1963 radio documentary Freedom Now!](http://www.kpfahistory.in
 
 - We will listen to the first ten minutes of Part II in class.
 
-Feb 20: 
-
-In class: First 10 minutes of [*"King: A Filmed Record.... Montgomery to Memphis"*](http://richmond.kanopystreaming.com/video/king-filmed-record-montgomery-memphis-part-1) 
-Let's analyze the first 5 minutes.  What is the director doing? How? Message? (Going back and forth between MLK and BPP)
-
-Feb 22: Black Power
+Feb 20:  Black Power
 Reading from Black Power TV?
 [Black Journal Debut Episode (1968)](http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/#): Watch 39:00 to 48:30
 How would you charachterize the episodes treatment of Black Power?
 Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
+
+In class: First 10 minutes of [*"King: A Filmed Record.... Montgomery to Memphis"*](http://richmond.kanopystreaming.com/video/king-filmed-record-montgomery-memphis-part-1) 
+Let's analyze the first 5 minutes.  What is the director doing? How? Message? (Going back and forth between MLK and BPP)
+
+Feb 21: Screening of *Agents of Change* on Tuesday, February 21. Agents of Change is a new documentary chronicling protests led by black students at San Francisco State and Cornell University at the end of the 1960s. Students invoked the power and tactics of the anti-Vietnam War movement and the black power movement to demand a more relevant and meaningful education. The film ties itself directly to the protests which occurred in 2015-2016 academic year at the University of Missouri and spread across the country, where students demanded their administrations address issues of racism on their campuses, and create stronger support systems for black students. Agents of Change won both the Jury Award and the Audience Award for Best Feature Documentary at the 2016 Pan African Film Festival. The screening will be followed by a talk back with one of the filmmakers. This event has been made possible by a grant from the Cultural Affairs Committee, along with collaboration from Boatwright Memorial Library, the Center for Civic Engagement, Common Ground, WGSS, WILL*, and will be an official Black History Month event.
+
+Feb 22: Discussion with *Agents of Change* filmmakers. 
 
 Maybe? Black Panther. Newsreel. https://search.alexanderstreet.com/view/work/1857868
 
