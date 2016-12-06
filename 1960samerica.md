@@ -116,31 +116,24 @@ of participation points. More than 5 absences may result in an “F” for the s
 
 Jan 9: Introduction
 
-Jan 11: 
+Jan 11: *Doing Documentary Work* - Introduction, Ch 1,2
 
 Jan 16: No Class MLK Day
 
-Jan 18: Library Session
+Jan 18: *Doing Documentary Work* - Ch 3,4, Epilogue
 
-Jan 23: 
+Jan 23: Analyzing Photography: The Americans  
 
-Jan 25: DH and Mapping 
+Jan 25:  *America Divided* - Introduction and Ch 1 ||  *Takin’ It to the Streets* -  “’Past as Prologue:’ The 1950s as an Introduction to the 1960s” (1-11). || Begin building our course timeline.
+
+Jan 30: Library Session
+
+Feb 1: DH and Mapping 
 
 
-## Documentary
+## Civil Rights 
 
-Jan 30: *Doing Documentary Work* - Introduction, Ch 1,2
-
-Feb 1: *Doing Documentary Work* - Ch 3,4, Epilogue
-
-## Civil Rights
-
-Maybe put The Americans here?  
-*Takin’ It to the Streets* -  “’Past as Prologue:’ The 1950s as an Introduction
-to the 1960s” (1-11).
-*American Divided* -  Ch 1: Gathering of the Forces (6-20)
-
-Feb 6: Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and 
+Feb 6: *American Divided* - Ch 2 ||  Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and 
 Photography of the Civil Rights Movement,” American Quarterly 59:4 (December 2007). Make sure you are on the UR server to access: https://muse.jhu.edu/article/228183/pdf
 
 Feb 8:  Reading Photographs - Listen to ["Unrest in Baton Rouge: Anatomy of a Photograph"]( http://www.wnyc.org/story/unrest-baton-rouge/) and explore The Movement (Danny Lyon). Pick a photograph to discuss in class. 
@@ -169,41 +162,40 @@ Maybe? Black Panther. Newsreel. https://search.alexanderstreet.com/view/work/185
 
 ## War On Poverty
 
-Feb 27: *American Divided* -  Ch 6: The Rise of the Great Society (97-119)
+Feb 27: *American Divided* -  Ch 6 || Johnson Great Society Speech
 
-Johnson Great Society Speech
-
-March 1: The Other America
+March 1: The Other America and Life Magazine "Valley of Poverty"
 
 March 6: Spring Break
 
 March 8: Spring Break
 
-March 13: Life Magazine "Valley of Poverty"
+March 13: Harvest of Shame (1960) and "In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism" NPR - Listen at http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism
 
-March 15: Harvest of Shame?
+March 15: 
 
 March 20: 
 
-March 22:
+March 22: * America Divided -  Ch 10
 
 ## New Left
 
-March 27: SDS and the Port Huron Statement 
+March 27: * America Divided* Ch 8 and 9 || 
+In class we will analyze: SDS and the Port Huron Statement, Song lyrices from XXXXX
 
 March 29: Underground Press
-Smoking Typewriters - Ch?
+Smoking Typewriters - Ch? 
+In class workshop: Come to class prepared to discuss the magazine you will be mapping and an outline for your final paper.  
 
+April 3: University of Richmond Archives - 1960s Student Yearbooks and Literary Magazine
 
-April 3: Columbia Student Take-Over
+April 5:  Columbia Student Take-Over
 [Columbia University student strike](https://search.alexanderstreet.com/view/work/1787305)
 
-April 5:  Democractic National Convention 1968
+April 10:  *America Divided* - Ch 12 ||  Democractic National Convention 1968
 [Ameirca Against Itself](http://richmond.kanopystreaming.com/video/america-against-itself)
 
-April 10:
-
-April 12: David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316)
+April 12: David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316) || *America Divided* - Ch 11
 
 ## Final Project
 
