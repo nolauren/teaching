@@ -142,11 +142,11 @@ Feb 13: *Black, White, and Colored: Television  and Black Civil Rights* - Ch 2: 
 
 Feb 15: Excerpt of “Sound,” (76-83) in Ed Sikov, Film Studies: An Introduction; and 
 Listen: [KPFA’s 1963 radio documentary Freedom Now!](http://www.kpfahistory.info/pa/freedom_now.html) Please listen to Part I. 
-
 - We will listen to the first ten minutes of Part II in class.
 
 Feb 20:  Black Power
-Reading from Black Power TV?
+"Broadcasting While Black: A History ad Overview of Black-Identity Public Affairs TV." Thirteen.
+"The Black Panther Platform: `What We Want, What We Believe.'  "http://www.thirteen.org/broadcastingwhileblack/uncategorized/broadcasting-while-blacka-history-and-overview/
 [Black Journal Debut Episode (1968)](http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/#): Watch 39:00 to 48:30
 How would you charachterize the episodes treatment of Black Power?
 Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
@@ -158,50 +158,58 @@ Feb 21: Screening of *Agents of Change* on Tuesday, February 21. Agents of Chang
 
 Feb 22: Discussion with *Agents of Change* filmmakers. 
 
+Feb 27: First Paper Workshop 
+
 Maybe? Black Panther. Newsreel. https://search.alexanderstreet.com/view/work/1857868
 
 ## War On Poverty
 
-Feb 27: *American Divided* -  Ch 6 || Johnson Great Society Speech
+March 1: *America Divided* -  Ch 6 | "A Time For Action." 
+"Will You Join in the Battle to Build a Great Society".Lydon B Johnson. University of Michigan, May 22, 1964. (Audio)
+Watch LBJ War On Poverty Address to Congress: https://www.youtube.com/watch?v=gMKD5l1oRzs
 
-March 1: The Other America and Life Magazine "Valley of Poverty"
+
 
 March 6: Spring Break
 
 March 8: Spring Break
 
-March 13: Harvest of Shame (1960) and "In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism" NPR - Listen at http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism
+March 13: Harrington: The Other America Excerpt and Life Magazine "Valley of Poverty"
 
-March 15: 
+March 15:  Harvest of Shame (1960) and "In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism" NPR - Listen at http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism
 
-March 20: 
+March 20: * America Divided -  Ch 10
 
-March 22: * America Divided -  Ch 10
+
+March 22: Final Paper Workshop
+In class workshop: Come to class prepared to discuss the magazine you will be mapping and an outline for your final paper. 
 
 ## New Left
 
-March 27: * America Divided* Ch 8 and 9 || 
-In class we will analyze: SDS and the Port Huron Statement, Song lyrices from XXXXX
+March 27: *America Divided* Ch 8 and 9 || 
+"The Port Huron Statement." Students for a Democratic Society (SDS).
+In class we will analyze: SDS and the Port Huron Statement 
 
-March 29: Underground Press
-Smoking Typewriters - Ch? 
-In class workshop: Come to class prepared to discuss the magazine you will be mapping and an outline for your final paper.  
+March 29: Columbia Student Take-Over
+[Columbia University student strike](https://search.alexanderstreet.com/view/work/1787305)
 
 April 3: University of Richmond Archives - 1960s Student Yearbooks and Literary Magazine
 
-April 5:  Columbia Student Take-Over
-[Columbia University student strike](https://search.alexanderstreet.com/view/work/1787305)
-
-April 10:  *America Divided* - Ch 12 ||  Democractic National Convention 1968
+April 5:  *America Divided* - Ch 12 ||  Democractic National Convention 1968
 [Ameirca Against Itself](http://richmond.kanopystreaming.com/video/america-against-itself)
+
+April 10:  Music
+"Rock and Roll is a Weapon of Cultural Revolution." Jon Sinclair.
+Excerpt from Woodstock.
+"Ball of Confusion." The Temptations. 
 
 April 12: David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316) || *America Divided* - Ch 11
 
-## Final Project
+## Final Project 
 
-April 17: 
+April 17: Presentations
 
-April 19: 
+April 19: Presentations
 
 
 
