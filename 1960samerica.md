@@ -131,6 +131,8 @@ Jan 30: Library Session
 Feb 1: DH and Mapping 
 
 
+(One idea is to watch Primary and talk about analyzing Documentary Film at the beginning.  Read CH 11 in Besty McLane Documentary A New History of... watch...  A Time For Burning.)
+
 ## Civil Rights 
 
 Feb 6: *American Divided* - Ch 2 ||  Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and 
