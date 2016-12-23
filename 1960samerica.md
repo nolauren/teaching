@@ -122,14 +122,14 @@ Jan 16: No Class MLK Day
 
 Jan 18: *Doing Documentary Work* - Ch 3,4, Epilogue
 
-Jan 23: Analyzing Photography: The Americans  
+Jan 23: Analyzing Photography: Take a look at *The Americans* and pick a photo for class. 
+What happens when we look at a single photo? In a series?  (Bring Robert Frank Exhibition Book.)
 
 Jan 25:  *America Divided* - Introduction and Ch 1 ||  *Takin’ It to the Streets* -  “’Past as Prologue:’ The 1950s as an Introduction to the 1960s” (1-11). || Begin building our course timeline.
 
 Jan 30: Library Session
 
 Feb 1: DH and Mapping 
-
 
 (One idea is to watch Primary and talk about analyzing Documentary Film at the beginning.  Read CH 11 in Besty McLane Documentary A New History of... watch...  A Time For Burning.)
 
@@ -138,15 +138,22 @@ Feb 1: DH and Mapping
 Feb 6: *American Divided* - Ch 2 ||  Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and 
 Photography of the Civil Rights Movement,” American Quarterly 59:4 (December 2007). Make sure you are on the UR server to access: https://muse.jhu.edu/article/228183/pdf
 
-Feb 8:  Reading Photographs - Listen to ["Unrest in Baton Rouge: Anatomy of a Photograph"]( http://www.wnyc.org/story/unrest-baton-rouge/) and explore The Movement (Danny Lyon). Pick a photograph to discuss in class. 
+Feb 8:  Group 1 Presentation. Reading Photographs - Listen to ["Unrest in Baton Rouge: Anatomy of a Photograph"]( http://www.wnyc.org/story/unrest-baton-rouge/) and explore The Movement (Danny Lyon).  
 
-Feb 13: *Black, White, and Colored: Television  and Black Civil Rights* - Ch 2: “The Double Life of Sit-In.” Watch [NBC White Paper: Sit-In](http://www.nbcuniversalarchives.com/nbcuni/clip/51A02201_s01.do) (1960, 56 min).
+Feb 13:  *Film Studies: An Introduction.* Ch 1 and 2.  Read ["NBC White Paper."](http://www.museum.tv/eotv/nbcwhitepap.htm)  Watch [NBC White Paper: Sit-In](http://www.nbcuniversalarchives.com/nbcuni/clip/51A02201_s01.do) (1960, 56 min). Pick a clip and be prepared to analyze the mise-en-scene in class. 
 
-Feb 15: Excerpt of “Sound,” (76-83) in Ed Sikov, Film Studies: An Introduction; and 
+Feb 15:  First Paper Workshop: Come to class prepared to discuss the photo you will be anayzing from The Movement and a thesis statement. 
+
+Feb 20: Group 2 Presentation. Excerpt of “Sound,” (76-83) in Ed Sikov, Film Studies: An Introduction ||  
 Listen: [KPFA’s 1963 radio documentary Freedom Now!](http://www.kpfahistory.info/pa/freedom_now.html) Please listen to Part I. 
 - We will listen to the first ten minutes of Part II in class.
+ 
 
-Feb 20:  Black Power
+Feb 21: Screening of *Agents of Change* on Tuesday, February 21. Agents of Change is a new documentary chronicling protests led by black students at San Francisco State and Cornell University at the end of the 1960s. Students invoked the power and tactics of the anti-Vietnam War movement and the black power movement to demand a more relevant and meaningful education. The film ties itself directly to the protests which occurred in 2015-2016 academic year at the University of Missouri and spread across the country, where students demanded their administrations address issues of racism on their campuses, and create stronger support systems for black students. Agents of Change won both the Jury Award and the Audience Award for Best Feature Documentary at the 2016 Pan African Film Festival. The screening will be followed by a talk back with one of the filmmakers. This event has been made possible by a grant from the Cultural Affairs Committee, along with collaboration from Boatwright Memorial Library, the Center for Civic Engagement, Common Ground, WGSS, WILL*, and will be an official Black History Month event.
+
+Feb 22: Discussion with *Agents of Change* filmmakers. 
+
+Feb 27:  Group 3 Presentation. Black Power
 "Broadcasting While Black: A History ad Overview of Black-Identity Public Affairs TV." Thirteen.
 "The Black Panther Platform: `What We Want, What We Believe.'  "http://www.thirteen.org/broadcastingwhileblack/uncategorized/broadcasting-while-blacka-history-and-overview/
 [Black Journal Debut Episode (1968)](http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/#): Watch 39:00 to 48:30
@@ -154,15 +161,8 @@ How would you charachterize the episodes treatment of Black Power?
 Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
 
 In class: First 10 minutes of [*"King: A Filmed Record.... Montgomery to Memphis"*](http://richmond.kanopystreaming.com/video/king-filmed-record-montgomery-memphis-part-1) 
-Let's analyze the first 5 minutes.  What is the director doing? How? Message? (Going back and forth between MLK and BPP)
-
-Feb 21: Screening of *Agents of Change* on Tuesday, February 21. Agents of Change is a new documentary chronicling protests led by black students at San Francisco State and Cornell University at the end of the 1960s. Students invoked the power and tactics of the anti-Vietnam War movement and the black power movement to demand a more relevant and meaningful education. The film ties itself directly to the protests which occurred in 2015-2016 academic year at the University of Missouri and spread across the country, where students demanded their administrations address issues of racism on their campuses, and create stronger support systems for black students. Agents of Change won both the Jury Award and the Audience Award for Best Feature Documentary at the 2016 Pan African Film Festival. The screening will be followed by a talk back with one of the filmmakers. This event has been made possible by a grant from the Cultural Affairs Committee, along with collaboration from Boatwright Memorial Library, the Center for Civic Engagement, Common Ground, WGSS, WILL*, and will be an official Black History Month event.
-
-Feb 22: Discussion with *Agents of Change* filmmakers. 
-
-Feb 27: First Paper Workshop 
-
-Maybe? Black Panther. Newsreel. https://search.alexanderstreet.com/view/work/1857868
+Let's analyze the first 5 minutes.  What is the director doing? How? Message? (Going back and forth between MLK and BPP)  
+Maybe? 
 
 ## War On Poverty
 
@@ -171,41 +171,39 @@ March 1: *America Divided* -  Ch 6 | "A Time For Action."
 Watch LBJ War On Poverty Address to Congress: https://www.youtube.com/watch?v=gMKD5l1oRzs
 
 
-
 March 6: Spring Break
 
 March 8: Spring Break
 
-March 13: Harrington: The Other America Excerpt and Life Magazine "Valley of Poverty"
+March 13:  Group 4 Presentation. Harrington, *The Other America* Excerpt and Life Magazine "Valley of Poverty".
 
-March 15:  Harvest of Shame (1960) and "In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism" NPR - Listen at http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism
+March 15:  Group 5 Presentation. Watch Harvest of Shame (1960) and "In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism" NPR - Listen at http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism
 
-March 20: * America Divided -  Ch 10
-
-
-March 22: Final Paper Workshop
-In class workshop: Come to class prepared to discuss the magazine you will be mapping and an outline for your final paper. 
+March 20: *America Divided* - Ch 10 ||  Second Paper Workshop
+In class workshop: Come to class prepared to discuss the film segment you will be anayzing and a thesis statement.  Pick one of the following films to analyze: Primary, [Black Panther] (https://search.alexanderstreet.com/view/work/1857868A),  [A Time For Burning](https://archive.org/details/atimeforburning), [Christmas in Appalachia](https://archive.org/details/ChristmasInAppalachia1965) 
 
 ## New Left
 
-March 27: *America Divided* Ch 8 and 9 || 
+March 22: *America Divided* Ch 8 and 9 || 
 "The Port Huron Statement." Students for a Democratic Society (SDS).
 In class we will analyze: SDS and the Port Huron Statement 
 
-March 29: Columbia Student Take-Over
+March 27: Watch Columbia Student Take-Over
 [Columbia University student strike](https://search.alexanderstreet.com/view/work/1787305)
+
+March 29:  Final Paper Workshop: Discuss the magazine you will be mapping and an outline for your final paper.
 
 April 3: University of Richmond Archives - 1960s Student Yearbooks and Literary Magazine
 
-April 5:  *America Divided* - Ch 12 ||  Democractic National Convention 1968
+
+April 5: *America Divided* - Ch 12 ||  Democractic National Convention 1968
 [Ameirca Against Itself](http://richmond.kanopystreaming.com/video/america-against-itself)
 
-April 10:  Music
-"Rock and Roll is a Weapon of Cultural Revolution." Jon Sinclair.
-Excerpt from Woodstock.
-"Ball of Confusion." The Temptations. 
+April 10:  Music - "Rock and Roll is a Weapon of Cultural Revolution." Jon Sinclair.
+Excerpt from Woodstock. || Listen to "Ball of Confusion." The Temptations. 
 
-April 12: David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316) || *America Divided* - Ch 11
+April 12:   
+David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316) || *America Divided* - Ch 11
 
 ## Final Project 
 
