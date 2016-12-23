@@ -1,6 +1,6 @@
 # Syllabus
 
-<span>**AMST/ RHCS ###: Documenting 1960s America**</span>
+<span>** FYS 100 Documenting 1960s America**</span>
 
  Monday, Wednesday 10:30 - 11:45 | Learn Lab
 
