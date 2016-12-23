@@ -9,6 +9,7 @@
  |                       184 Boatwright Memorial Library
  | Office Hours:                  TBD
  | Website:                       TBD
+ | Writing Center Consultant: Eliza Worcester
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
