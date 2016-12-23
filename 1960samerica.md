@@ -46,10 +46,10 @@ Methodologies used in the course include visual analysis, close textual analysis
 
 <span>**Grading:**</span>
 
-- Participation: (30%: 25% General and 5% for In-Class Presentation and Discussion)
-- Paper 1: Close analysis of a photograph. (20%)
-- Paper 2: Close analysis of a film. (20%)
-- Paper 3/Final Assignment (30%) 
+- Participation: 30% (25% General and 5% for In-Class Presentation and Discussion)
+- Paper 1: Close analysis of a photograph. 20%
+- Paper 2: Close analysis of a film. 20%
+- Paper 3/Final Assignment: 30%
 
 
  
