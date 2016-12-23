@@ -108,7 +108,7 @@ Absences due to university activities (e.g., sports, debate, etc.) must be discu
 instructor before the relevant class period(s). An official notice must be shown to the instructor. 
 Arrangements concerning absences are entirely at the instructor’s discretion. 
 Absences, unless for documented illness, emergency, or university business, will result in a loss 
-of participation points. More than 5 absences may result in an “F” for the semester.
+of participation points. More than 3 absences may result in a failing grade of “V” for the semester.
 
 <span>**Schedule:**</span>
 
