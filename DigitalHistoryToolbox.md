@@ -60,24 +60,43 @@ Let's go back and select "English". To adjust our list, select "Edit List." Let'
 
 Let's add: "that's" and "it's". 
 
-Tip: When I'm adjusting the stop word list, I like to make a text file with my additional stop words. You'll notice Voyant only allows you to adjust your stop words once. If you try to add more, it deletes your previous custom words. 
+(Tip: When I'm adjusting the stop word list, I like to make a text file with my additional stop words. You'll notice Voyant only allows you to adjust your stop words once. If you try to add more, it deletes your previous custom words.)
 
 
 
 #### Cirrus -  Terms - Links Part 2
 
+Cirrus: Now we have a new word cloud!
+
 Terms: We see the raw count of words in a list. 
 
-Links: Provides a  collocates graph shows a network graph of higher frequency terms that appear in proximity. Keywords are shown in green and collocates (words in proximity) are showing in red. 
+Links: Provides a collocates graph shows a network graph of higher frequency terms that appear in proximity. Keywords are shown in green and collocates (words in proximity) are showing in red. 
 
-Let's click on "American."
-- What happens?
+Let's click on "America." Let's take a look at the Reader in the panel to the right. 
+- What changed?
 
-Let's take a look at the Reader. 
-- What changed? 
+Now let's take a look at Trends in the panel furthest to the right. The default is Raw Frequencies. Let's change to Relative Frequenices. This isn't as helpful with one document but will be when we are analyzing more than one at a time. 
+
+Now let's go back Links and double click on "America". 
+
+- What changed?
+
+#### Contexts - Bubblelines 
+
+Contexts: Puts a term in context. ;)
+
+Bubblelines: A visualization of the term frequency in the document. 
 
 
+#### Summary - Documents - Phrases
+ 
+Summary: Overview of the document.  To increase the number of frequence words, adjust the items slider on the bottom left. 
 
+Documents: We only have one document, but it will be helpful when we look at multiple at once.
+
+Phrases: Provides a table of repreating phrases. 
+
+Let's sort by the most common phrases. (Tip: If Voyant won't let you reset and see all the phraes, reload.)
 
 
 ### Washington vs Obama
