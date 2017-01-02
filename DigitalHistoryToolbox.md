@@ -106,6 +106,19 @@ Let's sort by the most common phrases. (Tip: If Voyant won't let you reset and s
 
 ## Storymap.js
 
+https://storymap.knightlab.com/
+
+### Getting Started
+
+We have two options: Classic or Gigapixel. We will use the Classic. 
+
+So, let's make a storymap now!
+
+Note: I always like to stop to think about the implications of using Google. 
+
+
+
+### Customize Map
 
 
 
