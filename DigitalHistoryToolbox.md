@@ -51,13 +51,14 @@ Stop Words are a list of common words that are filtered out before or during tex
 
 Let's say we want to remove "mdash" and add it to our stop words. Go to the bottom left panel that says "Summary Documents Phrases". Next to the question mark is another set of options that only appear once you hover over the area. The first option to the left of the question mark allows us to adjust our stop words. 
 
-Voyant's default setting auto-detects a stop word list. Select "None" and see what happens! Is this helpful?
+Voyant's default setting auto-detects a stop word list. Select "None" and see what happens! 
+- Is this helpful?
 
 Let's go back and select "English". To adjust our list, select "Edit List." Let's add "mdash". 
 
-Are there any other we want to add? 
+ - Are there any other we want to add? 
 
-I'm going to add: that's and it's. 
+Let's add: "that's" and "it's". 
 
 Tip: When I'm adjusting the stop word list, I like to make a text file with my additional stop words. You'll notice Voyant only allows you to adjust your stop words once. If you try to add more, it deletes your previous custom words. 
 
@@ -69,7 +70,11 @@ Terms: We see the raw count of words in a list.
 
 Links: Provides a  collocates graph shows a network graph of higher frequency terms that appear in proximity. Keywords are shown in green and collocates (words in proximity) are showing in red. 
 
-Let's click on "American." What happens? Let's take a look at the Reader. What changed? 
+Let's click on "American."
+- What happens?
+
+Let's take a look at the Reader. 
+- What changed? 
 
 
 
