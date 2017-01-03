@@ -98,9 +98,37 @@ Phrases: Provides a table of repreating phrases.
 
 Let's sort by the most common phrases. (Tip: If Voyant won't let you reset and see all the phraes, reload.)
 
+Pair up and take a few minutes to explore. 
+- Interesting insights? 
+
 
 ### Washington vs Obama
 
+Let's now take a look at George Washington vs President Obama's SOTU addressess.
+
+
+Download the corpus to your Downloads Folder: https://drive.google.com/open?id=0B6zkbDdW8bzIQnpQX2NQbVFYQjg
+
+Unzip the file.
+
+Go to https://voyant-tools.org/ and select "Upload".  The speechs are named according to year. Make sure the files are in numerical order for this determines how Voyant loads them in.  Now, let's explore!
+
+To begin, take a look at Cirrus. 
+- Do we want to remove any stop words? If so, why?
+
+Let's remove them. 
+
+##### Summary - Documents - Phrases
+
+- Can we learn anything from this? Document Length? Vocabulary Density? 
+
+We also have a new option - Distinctive Words. Voyant uses Term Frequency-Inverse Document Frequency to weigh how important a word is in the document or corpus. Let's take a look at the terms used by Washington and Obama. 
+
+- Are there any themes we can see in these speeches? By presidency? 
+
+- Do we see particular phrases? 
+
+##### Explore!
 
 
 
