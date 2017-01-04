@@ -140,23 +140,27 @@ Several broad categories of mapping (not exhaustive by any means!):
 
 2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
 
-3. Designing a Spatial Analysis ArcGIS: has a ton of proprietary databases (vector and raster) and tools for annotation, such as georectifying and geolocation
+3. Classic Cartography and Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
 
-4. python/r: best for building models of spatial processes, like the spread of diseases movement of people, or development of weather
-
-
-https://storymap.knightlab.com/
+4. Spatial Analysis such as building models of spatial processeslike the spread of diseases movement of people. Ex. python/r , ArcGIS
 
 
+Today, we are going to look at narrative mapping:  https://storymap.knightlab.com/
 
 
 ### Getting Started
 
-We have two options: Classic or Gigapixel. We will use the Classic. 
+We have two options: Classic or Gigapixel. We will use Classic. 
 
-So, let's make a storymap now!
+So, let's make a storymap!
 
-Note: I always like to stop to think about the implications of using Google. 
+Note: I always like to stop to think about the implications of using Google, particularly when working with students.
+
+Limits of StoryMap:
+1. Have to pick a specific location. 
+2. Can only use media that is supported by the tool. 
+3. Only load one piece of media per slide.
+4. Best with visually rich media. 
 
 
 
@@ -166,6 +170,8 @@ Note: I always like to stop to think about the implications of using Google.
 
 
 ## Timeline.js
+
+Others: [TikiToki](http://www.tiki-toki.com/) 
 
 
 <a name="myfootnote1">1</a>: See https://voyant-tools.org/docs/#!/guide/about
