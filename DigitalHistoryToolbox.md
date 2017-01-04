@@ -132,9 +132,23 @@ We also have a new option - Distinctive Words. Voyant uses Term Frequency-Invers
 
 
 
-## Storymap.js
+## Mapping (Storymap.js)
+
+Several broad categories of mapping (not exhaustive by any means!):
+
+1. Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
+
+2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
+
+3. Designing a Spatial Analysis ArcGIS: has a ton of proprietary databases (vector and raster) and tools for annotation, such as georectifying and geolocation
+
+4. python/r: best for building models of spatial processes, like the spread of diseases movement of people, or development of weather
+
 
 https://storymap.knightlab.com/
+
+
+
 
 ### Getting Started
 
