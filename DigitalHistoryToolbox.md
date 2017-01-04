@@ -7,11 +7,101 @@ We’ll use three web-based tools (Storymap.js, Voyant and Timeline.js) and give
 dataset to work from. Along the way, we’ll also give you a few tips on how to get your own
 data in shape. Preparation: Please bring an Internet-equipped laptop.
 
+----------
 
 
 ## Introductions
 
+----------
 
+
+## Timeline (Timeline.js)
+
+https://timeline.knightlab.com/
+
+
+Select "Make A Timeline". It uses Google Docs and will require authentication.
+
+Once on the google spreadsheet, select "Use this template".
+
+If you want to collaborate, select "Share" on the top right of the spreadsheet. 
+
+Once you are finished, go to File -> Publish to the Web -> Publish 
+Then, take the URL and go back to https://timeline.knightlab.com/ and scroll down to Step 3.
+Once copied, select Preview. 
+
+Limits of Timeline.js:
+1. Have to pick a specific time. It doesn't deal with ambiguity. 
+2. Can only use media that is supported by the tool. 
+3. Only load one piece of media per entry.
+
+Note: The structure of the data is helpful for moving to another tool.
+
+### Sample Data
+
+New Deal Events: http://xroads.virginia.edu/~MA02/volpe/newdeal/timeline_text.html
+
+FDR 1932 Democratic Convention: https://www.youtube.com/watch?v=6Ht6cJqgC6o
+
+FDR Election: http://depts.washington.edu/depress/images/fdr_1932_seattle_420.jpg
+
+Fireside Chat: https://www.youtube.com/watch?v=z9CBpbuV3ok
+
+CCC Poster: https://upload.wikimedia.org/wikipedia/commons/b/b2/CCC-poster-1935.jpg
+
+TVA Logo: http://www.sourcewatch.org/images/thumb/c/cf/TVA.jpg/170px-TVA.jpg (Timeline.js doesn't support .svg)
+
+Others: [TikiToki](http://www.tiki-toki.com/) 
+
+
+------------
+## Mapping (Storymap.js)
+
+Several broad categories of mapping (not exhaustive by any means!):
+
+1. Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
+
+2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
+
+3. Classic Cartography and Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
+
+4. Spatial Analysis such as building models of spatial processeslike the spread of diseases movement of people. Ex. python/r , ArcGIS
+
+
+Today, we are going to look at narrative mapping:  https://storymap.knightlab.com/
+
+
+### Getting Started
+
+We have two options: Classic or Gigapixel. We will use Classic. 
+
+So, let's make a storymap!
+
+Note: I always like to stop to think about the implications of using Google, particularly when working with students.
+
+
+To change the map, go to Options.
+
+To share your map, select the Share button on the top right corner. 
+
+Example StoryMap: https://uploads.knightlab.com/storymapjs/00d95891f556eb378e1fb8a1f6ec48ec/fwp/draft.html
+
+
+Limits of StoryMap:
+1. Have to pick a specific location. 
+2. Can only use media that is supported by the tool. 
+3. Only load one piece of media per slide.
+4. Best with visually rich media. 
+5. The data is locked into the tool.
+
+
+Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/)
+
+
+### Customize Map
+
+
+----------
 
 ## Text Analysis with Voyant 
 
@@ -132,93 +222,6 @@ We also have a new option - Distinctive Words. Voyant uses Term Frequency-Invers
 
 
 
-## Mapping (Storymap.js)
-
-Several broad categories of mapping (not exhaustive by any means!):
-
-1. Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
-
-2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
-
-3. Classic Cartography and Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
-
-4. Spatial Analysis such as building models of spatial processeslike the spread of diseases movement of people. Ex. python/r , ArcGIS
-
-
-Today, we are going to look at narrative mapping:  https://storymap.knightlab.com/
-
-
-### Getting Started
-
-We have two options: Classic or Gigapixel. We will use Classic. 
-
-So, let's make a storymap!
-
-Note: I always like to stop to think about the implications of using Google, particularly when working with students.
-
-
-To change the map, go to Options.
-
-To share your map, select the Share button on the top right corner. 
-
-Example StoryMap: https://uploads.knightlab.com/storymapjs/00d95891f556eb378e1fb8a1f6ec48ec/fwp/draft.html
-
-
-Limits of StoryMap:
-1. Have to pick a specific location. 
-2. Can only use media that is supported by the tool. 
-3. Only load one piece of media per slide.
-4. Best with visually rich media. 
-5. The data is locked into the tool.
-
-
-Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/)
-
-
-### Customize Map
-
-
-
-
-## Timeline.js
-
-https://timeline.knightlab.com/
-
-
-Select "Make A Timeline". It uses Google Docs and will require authentication.
-
-Once on the google spreadsheet, select "Use this template".
-
-If you want to collaborate, select "Share" on the top right of the spreadsheet. 
-
-Once you are finished, go to File -> Publish to the Web -> Publish 
-Then, take the URL and go back to https://timeline.knightlab.com/ and scroll down to Step 3.
-Once copied, select Preview. 
-
-Limits of Timeline.js:
-1. Have to pick a specific time. It doesn't deal with ambiguity. 
-2. Can only use media that is supported by the tool. 
-3. Only load one piece of media per entry.
-
-Note: The structure of the data is helpful for moving to another tool.
-
-### Sample Data
-
-New Deal Events: http://xroads.virginia.edu/~MA02/volpe/newdeal/timeline_text.html
-
-FDR 1932 Democratic Convention: https://www.youtube.com/watch?v=6Ht6cJqgC6o
-
-FDR Election: http://depts.washington.edu/depress/images/fdr_1932_seattle_420.jpg
-
-Fireside Chat: https://www.youtube.com/watch?v=z9CBpbuV3ok
-
-CCC Poster: https://upload.wikimedia.org/wikipedia/commons/b/b2/CCC-poster-1935.jpg
-
-TVA Logo: http://www.sourcewatch.org/images/thumb/c/cf/TVA.jpg/170px-TVA.jpg (Timeline.js doesn't support .svg)
-
-
-
-Others: [TikiToki](http://www.tiki-toki.com/) 
 
 
 <a name="myfootnote1">1</a>: See https://voyant-tools.org/docs/#!/guide/about
