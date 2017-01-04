@@ -156,12 +156,23 @@ So, let's make a storymap!
 
 Note: I always like to stop to think about the implications of using Google, particularly when working with students.
 
+
+To change the map, go to Options.
+
+To share your map, select the Share button on the top right corner. 
+
+Example StoryMap: https://uploads.knightlab.com/storymapjs/00d95891f556eb378e1fb8a1f6ec48ec/fwp/draft.html
+
+
 Limits of StoryMap:
 1. Have to pick a specific location. 
 2. Can only use media that is supported by the tool. 
 3. Only load one piece of media per slide.
 4. Best with visually rich media. 
+5. The data is locked into the tool.
 
+
+Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/)
 
 
 ### Customize Map
@@ -170,6 +181,42 @@ Limits of StoryMap:
 
 
 ## Timeline.js
+
+https://timeline.knightlab.com/
+
+
+Select "Make A Timeline". It uses Google Docs and will require authentication.
+
+Once on the google spreadsheet, select "Use this template".
+
+If you want to collaborate, select "Share" on the top right of the spreadsheet. 
+
+Once you are finished, go to File -> Publish to the Web -> Publish 
+Then, take the URL and go back to https://timeline.knightlab.com/ and scroll down to Step 3.
+Once copied, select Preview. 
+
+Limits of Timeline.js:
+1. Have to pick a specific time. It doesn't deal with ambiguity. 
+2. Can only use media that is supported by the tool. 
+3. Only load one piece of media per entry.
+
+Note: The structure of the data is helpful for moving to another tool.
+
+### Sample Data
+
+New Deal Events: http://xroads.virginia.edu/~MA02/volpe/newdeal/timeline_text.html
+
+FDR 1932 Democratic Convention: https://www.youtube.com/watch?v=6Ht6cJqgC6o
+
+FDR Election: http://depts.washington.edu/depress/images/fdr_1932_seattle_420.jpg
+
+Fireside Chat: https://www.youtube.com/watch?v=z9CBpbuV3ok
+
+CCC Poster: https://upload.wikimedia.org/wikipedia/commons/b/b2/CCC-poster-1935.jpg
+
+TVA Logo: http://www.sourcewatch.org/images/thumb/c/cf/TVA.jpg/170px-TVA.jpg (Timeline.js doesn't support .svg)
+
+
 
 Others: [TikiToki](http://www.tiki-toki.com/) 
 
