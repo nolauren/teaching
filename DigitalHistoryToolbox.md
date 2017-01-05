@@ -225,7 +225,7 @@ We also have a new option - Distinctive Words. Voyant uses Term Frequency-Invers
 
 - Programming Historian: http://programminghistorian.org/
 - Historian Macroscope: http://www.themacroscope.org/2.0/
-- Humanites Data in R: humanitiesdata.org
+- Humanites Data in R: http://www.humanitiesdata.org
 
 
 <a name="myfootnote1">1</a>: See https://voyant-tools.org/docs/#!/guide/about
