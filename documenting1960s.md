@@ -58,6 +58,8 @@ Methodologies used in the course include visual analysis, close textual analysis
  
 <Assignments>
 
+Weekly Discussion: For each reading, you will be given a reading assignment. This may include composing several questions or picking a quote from the reading. The assignment should be posted to Blackboard.
+
 In Class Presentation and Discussion: Each week, a group will present on a piece of media. 
 The group will use the Underground/Alternative Press Database to find an article, 
 image or drawing that relates to the week’s topic, close read their selection,
@@ -123,7 +125,7 @@ Jan 11: *Doing Documentary Work* - Introduction, Ch 1,2
 
 Jan 16: No Class MLK Day
 
-Jan 18: *Doing Documentary Work* - Ch 3,4, Epilogue
+Jan 18: *Doing Documentary Work* - Ch 3 
 
 Jan 23: Analyzing Photography: Take a look at *The Americans* and pick a photo for class. Jan 23: Explore *The Americans* (on reserve) and pick a photo for class. Listen/Read ["`Americans': The Book that Changed Photography."](http://www.npr.org/2009/02/13/100688154/americans-the-book-that-changed-photography) NPR, Feburary 13, 2009.
 What happens when we look at a single photo? In a series?  (Bring Robert Frank Exhibition Book.)
