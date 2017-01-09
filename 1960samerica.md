@@ -150,9 +150,9 @@ Feb 21: Screening of *Agents of Change* on Tuesday, February 21. Agents of Chang
 Feb 22: Discussion with *Agents of Change* filmmakers. 
 
 Feb 27:  Group 3 Presentation. Black Power
-"Broadcasting While Black: A History ad Overview of Black-Identity Public Affairs TV." Thirteen.
-"The Black Panther Platform: `What We Want, What We Believe.'  "http://www.thirteen.org/broadcastingwhileblack/uncategorized/broadcasting-while-blacka-history-and-overview/
-[Black Journal Debut Episode (1968)](http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/#): Watch 39:00 to 48:30
+"The Black Panther Platform: `What We Want, What We Believe.'"
+["Broadcasting While Black: A History ad Overview of Black-Identity Public Affairs TV."](http://www.thirteen.org/broadcastingwhileblack/uncategorized/broadcasting-while-blacka-history-and-overview/) Thirteen. 
+[Black Journal Debut Episode (1968)](http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/#): Watch 0:00 to 16:10, 39:00 to 48:30  
 How would you charachterize the episodes treatment of Black Power?
 Let's time it. Who are the two sides in this story? Air time for each side? Airtime for this story within this episode? How does BJ portray BPP? What kind of depictions? Narrators framing?
 
