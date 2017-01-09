@@ -118,7 +118,7 @@ Jan 16: No Class MLK Day
 
 Jan 18: *Doing Documentary Work* - Ch 3,4, Epilogue
 
-Jan 23: Analyzing Photography: Take a look at *The Americans* and pick a photo for class. 
+Jan 23: Analyzing Photography: Take a look at *The Americans* and pick a photo for class. Jan 23: Explore *The Americans* (on reserve) and pick a photo for class. Listen/Read ["`Americans': The Book that Changed Photography."](http://www.npr.org/2009/02/13/100688154/americans-the-book-that-changed-photography) NPR, Feburary 13, 2009.
 What happens when we look at a single photo? In a series?  (Bring Robert Frank Exhibition Book.)
 
 Jan 25:  *America Divided* - Introduction and Ch 1 ||  *Takin’ It to the Streets* -  “’Past as Prologue:’ The 1950s as an Introduction to the 1960s” (1-11). || Begin building our course timeline.
