@@ -5,15 +5,16 @@
 <span>**FYS 100 Documenting 1960s America**</span>
 
  Monday, Wednesday 10:30 - 11:45 | Learn Lab
+ 
+ Dr. Lauren Tilton | ltilton@richmond.edu
+ 
+ 184 Boatwright Memorial Library | Office Hours: 12-1 Mondays
+ 
+ Course Website: Blackboard | Writing Center Consultant: Eliza Worcester
+ 
 
-+----------------------------+----------------------------------------------------+
-| **Dr. Lauren Tilton**      | [ltilton@richmond.edu](mailto:lilton@richmond.edu) |
-|                            | 184 Boatwright Memorial Library                    |
-| Office Hours:              | M 12-1                                             |
-| Website:                   | TBD                                                |
-| Writing Center Consultant: | Eliza Worcester                                    |
-+----------------------------+----------------------------------------------------+
-
+ 
+-------
 
 <span>**Course Description:**</span>
 
@@ -70,9 +71,9 @@ present their argument in class, and lead discussion.
 
 Collaborative Timeline: As a class, we will build a timeline of major events during the 1960s. Each class, pick an event to add to our timeline. Intructions for adding an event will be provided.
 
-- Paper 1: Close analysis of a photograph. (1500 words) Instructions and rubric discussed in class.
+- Paper 1: Close analysis of a photograph. (1500 words) Instructions and rubric will be discussed in class.
 
-- Paper 2: Close analysis of a film. (1500 words) Instructions and rubric discussed in class.
+- Paper 2: Close analysis of a film. (1500 words) Instructions and rubric will be discussed in class.
 
 - Mapping the Alternative Press Final Assignment:
 The class will work together to develop a map of the underground press during the 1960s.
