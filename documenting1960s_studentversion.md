@@ -126,7 +126,7 @@ Jan 11: *Doing Documentary Work* - Introduction, Ch 1,2
 
 Jan 16: No Class MLK Day
 
-Jan 18: *Doing Documentary Work* - Ch 3,4, Epilogue
+Jan 18: *Doing Documentary Work* - Ch 3
 
 Jan 23: Explore *The Americans* (on reserve) and pick a photo for class. || Listen/Read ["`Americans': The Book that Changed Photography."](http://www.npr.org/2009/02/13/100688154/americans-the-book-that-changed-photography) NPR, Feburary 13, 2009.
 
