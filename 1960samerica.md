@@ -9,6 +9,13 @@
 Office Hours:  TBD | Website: TBD | Writing Center Consultant: Eliza Worcester
 
 <span>**Course Description:**</span>
+This seminar offers an introduction to how social movements are shaped by and (re)shape media.
+
+- How we represent and document social upheaval?
+
+- How do we use media to advance social change?
+
+The course will focus on the relation between activism and media in the the 1960s.
 
 
 The course will focus on the relation between activism and media in the 1960s.  
