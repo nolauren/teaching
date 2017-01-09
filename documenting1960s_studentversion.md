@@ -62,6 +62,8 @@ photography from the civil rights movement, and publications from the undergroun
 
 ## Assignments
 
+Weekly Discussion: For each reading, you will be given a reading assignment. This may include composing several questions or picking a quote from the reading. The assignment should be posted to Blackboard. 
+
 In Class Presentation and Discussion: Each week, a group will present on a piece of media.
 The group will use the Underground/Alternative Press Database to find an article,
 image or drawing that relates to the week’s topic, close read their selection,
