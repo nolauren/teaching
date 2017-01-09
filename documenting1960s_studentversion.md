@@ -1,8 +1,7 @@
 
 
-# Syllabus
-
-<span>**FYS 100 Documenting 1960s America**</span>
+# Syllabus: FYS 100 Documenting 1960s America
+ 
 
  Monday, Wednesday 10:30 - 11:45 | Learn Lab
  
@@ -16,7 +15,7 @@
  
 -------
 
-<span>**Course Description:**</span>
+## Course Description
 
 This seminar offers an introduction to how social movements are shaped by and (re)shape media.
 
@@ -52,7 +51,7 @@ The course will zoom in on five questions:
 Texts will focus on documentary film such as the work of Newsreel,
 photography from the civil rights movement, and publications from the underground press. We will learn how to analyze the history of social movements, interpret media, and experiment with the digital humanities.
 
-<span>**Grading:**</span>
+## Grading
 
 - Participation: 30% (25% General and 5% for In-Class Presentation and Discussion)
 - Paper 1: Close analysis of a photograph. 20%
@@ -61,7 +60,7 @@ photography from the civil rights movement, and publications from the undergroun
 
 
 
-<Assignments>
+## Assignments
 
 In Class Presentation and Discussion: Each week, a group will present on a piece of media.
 The group will use the Underground/Alternative Press Database to find an article,
@@ -85,11 +84,11 @@ They will write a description (1500 words) that: (a) contextualizes the publicat
 Their descriptions will be integrated into the underground press map.
 Each student will present their publication at the end of the semester.
 
-<span>**Late Work:**</span>
+## Late Work 
 Late work receives a letter grade deduction for each class
 period it is late.
 
-<span>**Academic Integrity:**</span>
+## Academic Integrity 
 Students are expected to pledge the following statement on all
 assignments turned in for credit, including exams, papers and laboratory
 reports: "I pledge that I have neither received nor given unauthorized
@@ -106,7 +105,7 @@ information on URʼs commitment to building intellectual integrity,
 visit:
 http://studentdevelopment.richmond.edu/student-handbook/honor/the-honor-code.html
 
-<span>**Attendance:**</span>
+## Attendance
 Students are responsible for all information in the class, regardless of their personal attendance.
 If a student is absent, it is their responsibility to inquire about what they have missed.
 Absences due to university activities (e.g., sports, debate, etc.) must be discussed with the
@@ -115,9 +114,9 @@ Arrangements concerning absences are entirely at the instructor’s discretion.
 Absences, unless for documented illness, emergency, or university business, will result in a loss
 of participation points. More than 3 absences may result in a failing grade of “V” for the semester.
 
-<span>**Schedule:**</span>
+## Schedule
 
-## Introduction to the 1960s/ Methods
+### Introduction to the 1960s/ Methods
 
 Jan 9: Introduction
 
@@ -137,7 +136,7 @@ Jan 30: Library Session
 Feb 1: DH and Mapping
 
 
-## Civil Rights
+### Civil Rights
 
 Feb 6: *American Divided* - Ch 2 ||  Leigh Raiford, “‘Come Let Us Build a New World Together’: SNCC and
 Photography of the Civil Rights Movement,” American Quarterly 59:4 (December 2007). Make sure you are on the UR server to access: https://muse.jhu.edu/article/228183/pdf
@@ -164,7 +163,7 @@ Feb 27:  Group 3 Presentation. Black Power
 
 
 
-## War On Poverty
+### War On Poverty
 
 March 1: *America Divided* -  Ch 6  "A Time For Action." || "Will You Join in the Battle to Build a Great Society". Lydon B Johnson. University of Michigan, May 22, 1964. (Audio) ||
 Watch LBJ War On Poverty Address to Congress: https://www.youtube.com/watch?v=gMKD5l1oRzs
@@ -181,7 +180,7 @@ March 15:  Group 5 Presentation. Watch Harvest of Shame (1960) || "In Confrontin
 March 20: *America Divided* - Ch 10 ||  Second Paper Workshop
 In class workshop - Come to class prepared to discuss the film segment you will be anayzing and a thesis statement.  Pick one of the following films to analyze: Primary, [Black Panther] (https://search.alexanderstreet.com/view/work/1857868A),  [A Time For Burning](https://archive.org/details/atimeforburning), [Christmas in Appalachia](https://archive.org/details/ChristmasInAppalachia1965)
 
-## New Left
+### New Left
 
 March 22: *America Divided* Ch 8 and 9 ||
 "The Port Huron Statement." Students for a Democratic Society (SDS). ||
@@ -203,7 +202,7 @@ Excerpt from Woodstock. || Listen to "Ball of Confusion." The Temptations.
 April 12:
 David Farber. *The Sixities*. "The Silent Majority and Talk about Revolution." (291-316) || *America Divided* - Ch 11
 
-## Final Project
+### Final Project
 
 April 17: Presentations
 
