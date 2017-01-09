@@ -1,7 +1,4 @@
----
-output: md_document
-    variant: markdown+grid_tables
----
+
 
 # Syllabus
 
