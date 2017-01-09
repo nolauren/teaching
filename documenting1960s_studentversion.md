@@ -166,7 +166,7 @@ Feb 27:  Group 3 Presentation. Black Power
 ### War On Poverty
 
 March 1: *America Divided* -  Ch 6  "A Time For Action." || "Will You Join in the Battle to Build a Great Society". Lydon B Johnson. University of Michigan, May 22, 1964. (Audio) ||
-Watch LBJ War On Poverty Address to Congress: https://www.youtube.com/watch?v=gMKD5l1oRzs
+Watch [LBJ War On Poverty Address to Congress](https://www.youtube.com/watch?v=gMKD5l1oRzs).
 
 
 March 6: Spring Break
@@ -175,7 +175,7 @@ March 8: Spring Break
 
 March 13:  Group 4 Presentation. Harrington, *The Other America* Excerpt || Life Magazine "Valley of Poverty".
 
-March 15:  Group 5 Presentation. Watch Harvest of Shame (1960) || "In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism" NPR - Listen at http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism
+March 15:  Group 5 Presentation. Watch Harvest of Shame (1960) || ["In Confronting Poverty, 'Harvest Of Shame' Reaped Praise And Criticism"](http://www.npr.org/2014/05/31/317364146/in-confronting-poverty-harvest-of-shame-reaped-praise-and-criticism). NPR.
 
 March 20: *America Divided* - Ch 10 ||  Second Paper Workshop
 In class workshop - Come to class prepared to discuss the film segment you will be anayzing and a thesis statement.  Pick one of the following films to analyze: Primary, [Black Panther] (https://search.alexanderstreet.com/view/work/1857868A),  [A Time For Burning](https://archive.org/details/atimeforburning), [Christmas in Appalachia](https://archive.org/details/ChristmasInAppalachia1965)
