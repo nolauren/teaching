@@ -4,17 +4,9 @@
 
  Monday, Wednesday 10:30 - 11:45 | Learn Lab
 
-  ------------------------------ ----------------------------------------------------
- **Dr. Lauren Tilton**  |  ltilton@richmond.edu
- |                       184 Boatwright Memorial Library
-  ------------------------------ ----------------------------------------------------
+ **Dr. Lauren Tilton**  |  ltilton @ richmond.edu | 184 Boatwright Memorial Library
  
- 
-  ------------------------------ ----------------------------------------------------
- | Office Hours:                  TBD
- | Website:                       TBD
- | Writing Center Consultant: Eliza Worcester
-  ------------------------------ ----------------------------------------------------
+Office Hours:  TBD | Website: TBD | Writing Center Consultant: Eliza Worcester
 
 <span>**Course Description:**</span>
 
