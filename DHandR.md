@@ -18,11 +18,9 @@ computational methods with R.
 
  By the end of the course, we will:
 
--   Become familiar with the core concepts and methods of DH
+-   Become familiar with the core concepts and methods of image analysis  
 
--   Understand how to apply DH methods to answer scholarly questions
-
--   Articulate the stakes of DH scholarship
+-   Understand how to apply image analysis to answer scholarly questions
 
 -   Learn how to work collaboratively in the humanities
 
