@@ -1,6 +1,6 @@
 # Syllabus
 
-<span>* ###: Image Analysis with R**</span> | 
+<span>* Image Analysis with R**</span> | 
 
 Course Time TBD |  Location TBD
 
