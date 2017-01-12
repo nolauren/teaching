@@ -57,6 +57,8 @@ behind the University of Richmond firewall).
 
     -   [Schöch, Christof. “Big? Smart? Clean? Messy? Data in
         the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
+        
+    - Whitelaw, Mitchell. ["Art Against Information: Case Studies in Data Practice".](http://eleven.fibreculturejournal.org/fcj-067-art-against-information-case-studies-in-data-practice/). The Fiberculture Journal no 11, 2008.     
   
     -   [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software.
         Vol 59. Issue 10. August 2014.] (http://vita.had.co.nz/papers/tidy-data.pdf)
