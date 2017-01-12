@@ -4,8 +4,7 @@ Course Time TBD |  Location TBD
 
   ------------------------------ ----------------------------------------------------
   <span>**Instructor:**</span>   <span>**Dr. Lauren Tilton**</span>
-  
-[ltilton@richmond.edu](mailto:lilton@richmond.edu) | 
+
 
   ------------------------------ ----------------------------------------------------
 
