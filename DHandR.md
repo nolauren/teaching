@@ -86,6 +86,8 @@ behind the University of Richmond firewall).
     
     - ["The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term."](https://artificialintelligencenow.com/media/documents/AINowSummaryReport_3.pdf) A summary of the AI Now public symposium, hosted by the White House and New York University’s Information Law Institute, July 7th, 2016.  
     
+    - Caliskan-Islam,Aylin and Joanna J. Bryson1 and Arvind Narayanan. ["Semantics derived automatically from language corpora necessarily contain human biases."](https://arxiv.org/abs/1608.07187) August 20, 2016.
+    
    -   Lab: Intro to R and RStudio     
    
 *Part 2: Visual Culture Studies and Cultural Analytics*   
