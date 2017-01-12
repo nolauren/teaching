@@ -80,24 +80,25 @@ behind the University of Richmond firewall).
 
     - ["Can Computer Be Racist?: The Human-Like Bias of Alogorithms."](http://www.npr.org/2016/03/14/470427605/can-computers-be-racist-the-human-like-bias-of-algorithms). NPR. March 14, 2016.
     
+    - ["The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term."](https://artificialintelligencenow.com/media/documents/AINowSummaryReport_3.pdf) A summary of the AI Now public symposium, hosted by the White House and New York University’s Information Law Institute, July 7th, 2016.  
     
+- Week 4: Cultural Analytics  
 
-- Week 4: Introduction to Github and R
+- Week 5: Introduction to Github and R
 
-- Week 5 : Exploratory Data Analysis Part 1
+- Week 6 : Exploratory Data Analysis Part 1
 
-- Week 6 : Exploratory Data Analysis Part 2
+- Week 7 : Exploratory Data Analysis Part 2
 
-- Week 7 : Exploratory Data Analysis Part 3
+- Week 8 : Exploratory Data Analysis Part 3
 
+- Week 9 : Image Analysis Part 1
 
-- Week 8 : Image Analysis Part 1
+- Week 10 :  Image Analysis Part 2
 
-- Week 9 :  Image Analysis Part 2
+- Week 11 :  Image Analysis Part 3
 
-- Week 10 :  Image Analysis Part 3
-
-- Week 11 : Final Projects 
+- Week 12 : Final Projects 
 
  
  
