@@ -1,6 +1,4 @@
-# Syllabus
-
-<span>* Image Analysis with R**</span> | 
+# Image Analysis 
 
 Course Time TBD |  Location TBD
 
@@ -14,11 +12,13 @@ Course Time TBD |  Location TBD
 <span>**Course Description:**</span>
 Digital Humanities or “DH” brings the application of computing to
 humanities questions. In this course, we will explore applying
-computational methods with R.
+computational image analysis with R.
 
  By the end of the course, we will:
+ 
+-   Become familiar with the programming language R
 
--   Become familiar with the core concepts and methods of image analysis  
+-   Understand the core concepts and methods of image analysis  
 
 -   Understand how to apply image analysis to answer scholarly questions
 
