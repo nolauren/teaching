@@ -95,12 +95,21 @@ behind the University of Richmond firewall).
 
 - Week 4: Visual Culture Studies
 
-
+   - Lincoln, Matthew. [DH2016: Measuring Genre Diversity in Seventeenth-Century Dutch Painting and Printmaking](http://matthewlincoln.net/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html) 2016.
+   
+   - Explore [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) and [Photogrammar](photogrammar.yale.edu).
+   
+   
    -   Lab: Intro to R 
 
 - Week 5: Cultural Analytics  
+
     - Manovich, Lev. ["Cultural Analytics: Visualizing Cultural Patterns in the Era of “More Media”.]
 (http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf)
+
+  - Manovich, Lev. ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics."](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/). May 23, 2016.
+  
+  -  Crockett, Damon. ["Visual Exploration of Image Data."](http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=13707.mp4&vfd=CA2016) Presentation. IPAM 2016. To view the slides while watching the presentation, see the [PDF](http://helper.ipam.ucla.edu/publications/ca2016/ca2016_13707.pdf).
 
    -   Lab: Intro to R 
 
