@@ -1,6 +1,6 @@
 # Syllabus
 
-<span>* ###: Digital Humanities with R**</span> | 
+<span>* ###: Image Analysis with R**</span> | 
 
 Course Time TBD |  Location TBD
 
