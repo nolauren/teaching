@@ -105,7 +105,7 @@ behind the University of Richmond firewall).
 - Week 5: Cultural Analytics  
 
     - Manovich, Lev. ["Cultural Analytics: Visualizing Cultural Patterns in the Era of “More Media”.]
-(http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf)
+(http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf) 2009.
 
   - Manovich, Lev. ["The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics."](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/). May 23, 2016.
   
