@@ -62,6 +62,8 @@ behind the University of Richmond firewall).
     -   [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software.
         Vol 59. Issue 10. August 2014.] (http://vita.had.co.nz/papers/tidy-data.pdf)
         
+    -   Lab: Intro to the Command Line    
+        
 - Week 2 : What is code?
 
 
@@ -76,27 +78,45 @@ behind the University of Richmond firewall).
         Statistics in DH”. Debates in the Digital Humanities, 2017.
         Pre-Print. (To be provided.) 
         
+    -   Lab: Intro to Github   
+        
 - Week 3 : Algorithms 
 
     - ["Can Computer Be Racist?: The Human-Like Bias of Alogorithms."](http://www.npr.org/2016/03/14/470427605/can-computers-be-racist-the-human-like-bias-of-algorithms). NPR. March 14, 2016.
     
     - ["The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term."](https://artificialintelligencenow.com/media/documents/AINowSummaryReport_3.pdf) A summary of the AI Now public symposium, hosted by the White House and New York University’s Information Law Institute, July 7th, 2016.  
     
-- Week 4: Cultural Analytics  
+   -   Lab: Intro to R and RStudio     
+   
+*Part 2: Visual Culture Studies and Cultural Analytics*   
+   
 
-- Week 5: Introduction to Github and R
+- Week 4: Visual Culture Studies
+
+
+   -   Lab: Intro to R 
+
+- Week 5: Cultural Analytics  
+    - Manovich, Lev. ["Cultural Analytics: Visualizing Cultural Patterns in the Era of “More Media”.]
+(http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf)
+
+   -   Lab: Intro to R 
+
+
+*Part 3: Image Analysis with R*   
+
 
 - Week 6 : Exploratory Data Analysis Part 1
 
 - Week 7 : Exploratory Data Analysis Part 2
 
-- Week 8 : Exploratory Data Analysis Part 3
+- Week 8 :  Image Analysis Part 1
 
-- Week 9 : Image Analysis Part 1
+- Week 9 : Image Analysis Part 2
 
-- Week 10 :  Image Analysis Part 2
+- Week 10 : Image Analysis Part 3
 
-- Week 11 :  Image Analysis Part 3
+- Week 11 :  Image Analysis Part 4
 
 - Week 12 : Final Projects 
 
