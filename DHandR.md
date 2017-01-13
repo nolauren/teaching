@@ -88,6 +88,11 @@ The course will culminate in a final project. No prior programming experience ex
 
 - Week 4: Visual Culture Studies
 
+
+   -  Mirzoeff, Nicholas. "What is Visual Culture?" *The Visual Culture Reader*. 
+   
+   - Rose, Gillian. *Visual Methodologies.* Chapter 1. 
+   
    - Lincoln, Matthew. [DH2016: Measuring Genre Diversity in Seventeenth-Century Dutch Painting and Printmaking](http://matthewlincoln.net/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html) 2016.
    
    - Explore [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) and [Photogrammar](photogrammar.yale.edu).
@@ -110,8 +115,11 @@ The course will culminate in a final project. No prior programming experience ex
 *Part 3: Image Analysis with R*   
 
 - Week 6 : Image Data 
+
+   - Salt, Barry. “Statistical Style Analysis of Motion Pictures.” Film Quarterly 28.1 (1974): 13-22.  
   
    - Explore the documentation for the R package [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+   
    - Lab: Creating Image Data
 
 - Week 7 : Exploratory Data Analysis Part 1
