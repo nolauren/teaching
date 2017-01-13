@@ -124,7 +124,7 @@ The course will culminate in a final project. No prior programming experience ex
 
 - Week 8 : Exploratory Data Analysis Part 2
 
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 4 EDA II: Multivariate Analysi and Ch 5 EDA III: Advanced Graphics
+ -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 4 EDA II: Multivariate Analysis and Ch 5 EDA III: Advanced Graphics
 
 
 - Week 9 :  Image Analysis Part 1
