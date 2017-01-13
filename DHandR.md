@@ -140,7 +140,7 @@ behind the University of Richmond firewall).
 
  - ["Machine Learning is Fun!" Part 1 - 4](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jfvleugcm)
  
- - "A Visual Introduction to Machine Learning." (http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) R2D3.
+ - ["A Visual Introduction to Machine Learning."](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) R2D3.
 
  -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data : 8.1 - 8.4 
 
