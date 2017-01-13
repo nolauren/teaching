@@ -89,7 +89,9 @@ behind the University of Richmond firewall).
     
     - Caliskan-Islam,Aylin and Joanna J. Bryson1 and Arvind Narayanan. ["Semantics derived automatically from language corpora necessarily contain human biases."](https://arxiv.org/abs/1608.07187) August 20, 2016.
     
-   -   Lab: Intro to R and RStudio     
+   - Schmidt, Benjamin. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99). Debates in the Digital Humanities 2016.  
+    
+   -   Lab: Intro to RStudio     
    
 *Part 2: Visual Culture Studies and Cultural Analytics*   
    
@@ -117,21 +119,38 @@ behind the University of Richmond firewall).
 
 *Part 3: Image Analysis with R*   
 
+- Week 6 : Image Data 
 
-- Week 6 : Exploratory Data Analysis Part 1
+   - Lab: Creating Image Data
 
-- Week 7 : Exploratory Data Analysis Part 2
+- Week 7 : Exploratory Data Analysis Part 1
 
-- Week 8 :  Image Analysis Part 1
+ - Tukey, John. *Exploratory Data Analysis*. Introduction.
+ 
+ -  Brillinger, David. ["Data Analysis, Exploratory."](https://www.stat.berkeley.edu/~brill/Papers/EDASage.pdf)
+ 
+ -  Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 3
 
-- Week 9 : Image Analysis Part 2
+- Week 8 : Exploratory Data Analysis Part 2
 
-- Week 10 : Image Analysis Part 3
+ -  Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 4-5
 
-- Week 11 :  Image Analysis Part 4
 
-- Week 12 : Final Projects 
+- Week 9 :  Image Analysis Part 1
 
+ -  Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 
+
+- Week 10 : Image Analysis Part 2
+
+- Week 11 : Image Analysis Part 3
+
+ - ["Machine Learning is Fun!" Part 1 - 4](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jfvleugcm)
+ 
+ - "A Visual Introduction to Machine Learning." (http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) R2D3.
+
+- Week 12 :     Final Projects 
+
+ 
  
  
  
