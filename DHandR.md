@@ -1,4 +1,4 @@
-# Image Analysis 
+# Distant Viewing: Image Analysis in Theory and Practice
 
   ------------------------------ ----------------------------------------------------
   <span>**Instructor:**</span>   <span>**Dr. Lauren Tilton**</span>
@@ -6,15 +6,13 @@
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
- In this graduate course, we will explore applying computational image analysis with R. By the end of the semester, we will:
+ In this graduate course, we will explore ways of using a large corpus of images to pose and answer humanities questions. We will take a critical approach to the theory and practice of analysing visual culture at scale.  By the end of the semester, we will:
  
 -   Understand the core concepts and methods of image analysis
 
+-   Understand how to apply image analysis to address humanities questions
+
 -   Become familiar with the programming language R
-
--   Understand how to apply image analysis to answer humanities scholarly questions
-
--   Learn how to work collaboratively in the humanities
 
 The course will culminate in a final project. No prior programming experience expected or required.  
 
