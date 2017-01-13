@@ -129,11 +129,11 @@ behind the University of Richmond firewall).
  
  -  Brillinger, David. ["Data Analysis, Exploratory."](https://www.stat.berkeley.edu/~brill/Papers/EDASage.pdf)
  
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 3
+ -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 3 EDA I: Continous and Categorical Data
 
 - Week 8 : Exploratory Data Analysis Part 2
 
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 4-5
+ -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 4 EDA II: Multivariate Analysi and Ch 5 EDA III: Advanced Graphics
 
 
 - Week 9 :  Image Analysis Part 1
@@ -142,12 +142,12 @@ behind the University of Richmond firewall).
  
  - "A Visual Introduction to Machine Learning." (http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) R2D3.
 
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 8.1 - 8.4
+ -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data : 8.1 - 8.4 
 
 
 - Week 10 : Image Analysis Part 2
 
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R *. Ch 8.5 - 8.7
+ -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data :  8.5 - 8.7
  
  
 - Week 11 : Image Analysis Part 3
