@@ -146,7 +146,7 @@ The course will culminate in a final project. No prior programming experience ex
  - Lab: Image Plot 
 
 
-- Week 12 :     Final Projects 
+- Week 12 :     Presentations 
 
  
  
