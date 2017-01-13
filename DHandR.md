@@ -1,6 +1,5 @@
 # Image Analysis 
 
-Course Time TBD |  Location TBD
 
   ------------------------------ ----------------------------------------------------
   <span>**Instructor:**</span>   <span>**Dr. Lauren Tilton**</span>
