@@ -26,13 +26,12 @@ computational image analysis with R.
 The course will culminate in a final project.
 *No prior programming experience expected or required.*
 
-<span>**Grading:**</span>
-
--   20% Participation
-
--   30% 
-
--   50% Final Project
+<span>**Assignment:**</span>
+ 
+ Three data sets:
+ - WikiCommons Media
+ - Farm Security Administration - Office of War Information Photography Collection
+ - Network Era Sitcoms
  
 
 
@@ -83,11 +82,11 @@ behind the University of Richmond firewall).
         
 - Week 3 : Algorithms 
 
-    - ["Can Computer Be Racist?: The Human-Like Bias of Alogorithms."](http://www.npr.org/2016/03/14/470427605/can-computers-be-racist-the-human-like-bias-of-algorithms). NPR. March 14, 2016.
+    - ["Can Computers Be Racist?: The Human-Like Bias of Alogorithms."](http://www.npr.org/2016/03/14/470427605/can-computers-be-racist-the-human-like-bias-of-algorithms). NPR. March 14, 2016.
     
     - ["The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term."](https://artificialintelligencenow.com/media/documents/AINowSummaryReport_3.pdf) A summary of the AI Now public symposium, hosted by the White House and New York University’s Information Law Institute, July 7th, 2016.  
     
-    - Caliskan-Islam,Aylin and Joanna J. Bryson1 and Arvind Narayanan. ["Semantics derived automatically from language corpora necessarily contain human biases."](https://arxiv.org/abs/1608.07187) August 20, 2016.
+    - Caliskan-Islam,Aylin and Joanna J. Bryson and Arvind Narayanan. ["Semantics derived automatically from language corpora necessarily contain human biases."](https://arxiv.org/abs/1608.07187) August 20, 2016.
     
    - Schmidt, Benjamin. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99). Debates in the Digital Humanities 2016.  
     
