@@ -1,9 +1,7 @@
 # Image Analysis 
 
-
   ------------------------------ ----------------------------------------------------
   <span>**Instructor:**</span>   <span>**Dr. Lauren Tilton**</span>
-
 
   ------------------------------ ----------------------------------------------------
 
@@ -26,7 +24,6 @@ The course will culminate in a final project. No prior programming experience ex
  - Farm Security Administration - Office of War Information Photography Collection
  - Network Era Sitcoms Stills Collection
  You may also choose to work with your own corpus. More details about the paper will be discussed in class.  
-
 
 <span>**Schedule:**</span>
  
@@ -52,8 +49,6 @@ The course will culminate in a final project. No prior programming experience ex
     -   Lab: Intro to the Command Line    
         
 - Week 2 : What is code?
-
-
   
     -   [Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
         11, 2015.](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -66,8 +61,6 @@ The course will culminate in a final project. No prior programming experience ex
     -   Arnold, Taylor and Lauren Tilton. “New Data: The Role of
         Statistics in DH”. Debates in the Digital Humanities, 2017.
         Pre-Print. (To be provided.) 
-        
-
         
     -   Lab: Intro to Github   
         
@@ -85,9 +78,7 @@ The course will culminate in a final project. No prior programming experience ex
    
 *Part 2: Visual Culture Studies and Cultural Analytics*   
    
-
 - Week 4: Visual Culture Studies
-
 
    -  Mirzoeff, Nicholas. "What is Visual Culture?" *The Visual Culture Reader*. 
    
