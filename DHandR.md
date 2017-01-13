@@ -9,18 +9,17 @@ Course Time TBD |  Location TBD
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
- In this course, we will explore applying computational image analysis with R. By the end of the semester, we will:
+ In this graduate course, we will explore applying computational image analysis with R. By the end of the semester, we will:
  
--   Understand the core concepts and methods of image analysis  
+-   Understand the core concepts and methods of image analysis
 
 -   Become familiar with the programming language R
 
--   Understand how to apply image analysis to answer scholarly questions
+-   Understand how to apply image analysis to answer humanities scholarly questions
 
 -   Learn how to work collaboratively in the humanities
 
-The course will culminate in a final project.
-*No prior programming experience expected or required.*
+The course will culminate in a final project. No prior programming experience expected or required.  
 
 <span>**Assignment:**</span>
  The final paper will apply image analysis to a corpus. Three data sets wil be provided:
@@ -62,16 +61,20 @@ The course will culminate in a final project.
 
     -   [Tveten, Juliane. “Code Is Political.” Vice Motherboard. March
         1, 2016.](http://motherboard.vice.com/read/code-is-political)
-
+      
+    - Chun, Wendy. *Programmed Visions: Software and Memory* (MIT Press, 2013). Introduction, “Invisibly Visible, Visibly Invisible” and “On Sourcery and Source Codes.” 
+      
     -   Arnold, Taylor and Lauren Tilton. “New Data: The Role of
         Statistics in DH”. Debates in the Digital Humanities, 2017.
         Pre-Print. (To be provided.) 
+        
+
         
     -   Lab: Intro to Github   
         
 - Week 3 : Algorithms 
 
-    - ["Can Computers Be Racist?: The Human-Like Bias of Alogorithms."](http://www.npr.org/2016/03/14/470427605/can-computers-be-racist-the-human-like-bias-of-algorithms). NPR. March 14, 2016.
+    - ["Can Computers Be Racist?: The Human-Like Bias of Alogorithms."](http://www.npr.org/2016/03/14/470427605/can-computers-be-racist-the-human-like-bias-of-algorithms) NPR. March 14, 2016.
     
     - ["The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term."](https://artificialintelligencenow.com/media/documents/AINowSummaryReport_3.pdf) A summary of the AI Now public symposium, hosted by the White House and New York University’s Information Law Institute, July 7th, 2016.  
     
@@ -108,7 +111,8 @@ The course will culminate in a final project.
 *Part 3: Image Analysis with R*   
 
 - Week 6 : Image Data 
-
+  
+   - Explore the documentation for the R package [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
    - Lab: Creating Image Data
 
 - Week 7 : Exploratory Data Analysis Part 1
