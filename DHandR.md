@@ -137,21 +137,28 @@ The course will culminate in a final project. No prior programming experience ex
 
 - Week 9 :  Image Analysis Part 1
 
- - ["Machine Learning is Fun!" Part 1 - 4](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jfvleugcm)
- 
- - ["A Visual Introduction to Machine Learning."](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) R2D3.
+   - Manovich, Lev. "Visualization Methods for Media Studies." Oxford Handbook of Sound and Image.
+   
+   - Ushizima, Daniela, et al. [Cultural Analytics of Large Datasets From Flickr](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/viewFile/4781/5097). AAAI. 
+   
+   - Lab: Image Plot 
 
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data : 8.1 - 8.4 
 
 
 - Week 10 : Image Analysis Part 2
 
- -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data :  8.5 - 8.7
+   - ["Machine Learning is Fun!" Part 1 - 4](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jfvleugcm)
+ 
+   - ["A Visual Introduction to Machine Learning."](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) R2D3.
+
+   -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data : 8.1 - 8.4 
+
  
  
 - Week 11 : Image Analysis Part 3
 
- - Lab: Image Plot 
+   -  Read/Lab: Arnold, Taylor and Lauren Tilton. *Humanities Data in R*. Ch 8 Image Data :  8.5 - 8.7
+
 
 
 - Week 12 :     Presentations 
