@@ -9,15 +9,11 @@ Course Time TBD |  Location TBD
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
-Digital Humanities or “DH” brings the application of computing to
-humanities questions. In this course, we will explore applying
-computational image analysis with R.
-
- By the end of the course, we will:
+ In this course, we will explore applying computational image analysis with R. By the end of the semester, we will:
  
--   Become familiar with the programming language R
-
 -   Understand the core concepts and methods of image analysis  
+
+-   Become familiar with the programming language R
 
 -   Understand how to apply image analysis to answer scholarly questions
 
@@ -27,19 +23,12 @@ The course will culminate in a final project.
 *No prior programming experience expected or required.*
 
 <span>**Assignment:**</span>
- 
- Three data sets:
- - WikiCommons Media
+ The final paper will apply image analysis to a corpus. Three data sets wil be provided:
+ - WikiMedia Commons
  - Farm Security Administration - Office of War Information Photography Collection
- - Network Era Sitcoms
- 
+ - Network Era Sitcoms Stills Collection
+ You may also choose to work with your own corpus. More details about the paper will be discussed in class.  
 
-
-<span>**Readings:**</span>
-Most of the readings in this course consist of journal articles, blog
-posts, and chapters from edited volumes. These will all be available
-digitally, for free, from the course website (some may require you to be
-behind the University of Richmond firewall).
 
 <span>**Schedule:**</span>
  
