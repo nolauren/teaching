@@ -95,6 +95,8 @@ The course will culminate in a final project. No prior programming experience ex
    
    - Lincoln, Matthew. [DH2016: Measuring Genre Diversity in Seventeenth-Century Dutch Painting and Printmaking](http://matthewlincoln.net/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html) 2016.
    
+   - Ferguson, Kevin L. "The Slices of Cinema: Digital Surrealism as Research Strategy." Arclight Guidebook to Media History and hte Digital Humanities. 2016.
+   
    - Explore [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) and [Photogrammar](photogrammar.yale.edu).
    
    
