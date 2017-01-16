@@ -3,7 +3,6 @@
 
 
 -   [Assignments](http://amst906f2015.coursepress.yale.edu/assignments-2/)
--   [Syllabus](http://amst906f2015.coursepress.yale.edu/syllabus-2/)
 -   [Tutorials](http://amst906f2015.coursepress.yale.edu/tutorials-2/)
 
  
@@ -83,7 +82,7 @@ hour session without a Lab Time TBA)
     New Media, Old Media, Wendy Hui Kyong Chun and Thomas Keenan, Eds.,
     Routledge, 2006.
 
-### Week 3: September 22:Â Getting Started Critically B
+### Week 3: September 22: Getting Started Critically B
 
 Reading and Discussion:
 
@@ -108,17 +107,17 @@ From Matthew Gold, ed, Debates in Digital Humanities
 
 Reading and Discussion:
 
--   Hockey, Susan. âThe History of Humanities Computing.â In Companion
+-   Hockey, Susan. The History of Humanities Computing. In Companion
     to Digital Humanities, edited by Susan Schreibman, Ray Siemens, and
     John Unsworth. Oxford: Blackwell, 2004.
 -   Moretti, Franco, Graphs, Maps, Trees, Verso, 2007
 -   Special Edition of Journal of Digital Humanities on Topic Modeling.
-    JDH. Vol 2. No. 1 Winter 2012.\
-    Meeks, Elijah and Scott Weingart. â[The Digital Humanities
+    JDH. Vol 2. No. 1 Winter 2012. 
+    Meeks, Elijah and Scott Weingart. [The Digital Humanities
     Contribution to Topic
     Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/).â
     Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.
--   Brett, Megan R. â[Topic Modeling: A Basic
+-   Brett, Megan R.  [Topic Modeling: A Basic
     Introduction.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)â
     Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.
 -   Goldston, Andrew and Ted Underwood. [âWhat Can Topic Models of PMLA
@@ -127,21 +126,21 @@ Reading and Discussion:
     of Digital Humanities. Vol 2. No. 1 Winter 2012.
 -   Practicum: Text Analysis Part 1
 
-### Week 5: October 6 :Â More Mining
+### Week 5: October 6 :  More Mining
 
 Reading and Discussion:
 
--   Rhody, Lisa M. [âTopic Modeling and Figurative
-    Language.â](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
+-   Rhody, Lisa M. [Topic Modeling and Figurative
+    Language.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
     Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.
 -   Schmidt, Benjamin. âWords Alone: Dismantling Topic Models in the
-    Humanitiesâ
+    Humanities
 -   Franco Moretti, Excerpts from Distant Reading.
 -   Matthew Jockers, Excerpts from Macroanalysis
 -   Explore the following websites and come prepared to discuss the
     successes and limitations of these projects:
-    -   [Mining VogueÂ ](http://Dh.library.yale.edu/vogue)
-    -   Topic Modeling Martha Ballardâs Diary
+    -   [Mining Vogue ](http://Dh.library.yale.edu/vogue)
+    -   Topic Modeling Martha Ballard's Diary
         -   [Introduction](http://historying.org/2010/04/01/topic-modeling-martha-ballards-diary/)
         -   [The Series](http://historying.org/martha-ballards-diary/)
             (Read all three parts.)
@@ -151,23 +150,21 @@ Reading and Discussion:
 -   Practicum: Text Analysis Part 2
 
 Before class, please visit [Data For Research](http://dfr.jstor.org/)
-from JStor.Â Set up an account and selectÂ your data of choice.
-SelectÂ Data Type:Â Citations Online and Word CountsÂ and Output
-Format:Â CSV. Â If the data has more than 1000 records, there are two
+from JStor.  Set up an account and select  your data of choice.
+Select  Data Type:  Citations Online and Word Counts  and Output
+Format: CSV.  If the data has more than 1000 records, there are two
 options. You can make several requests for data to capture all the data
 or you need to select a subset. If you do not, you will get a random
 generated subset from JStor.
 
-Once you haveÂ the data, please email me and Peter Leonard (Peter.Leonard
-@ yale.edu). The data will need to be processed and we are using Andrew
-Goldstoneâs
+Once you have the data, please email me. The data will need to be processed and we are using Andrew
+Goldstone's
 [Count2Text](https://github.com/agoldst/dfr-analysis/blob/master/count2txt)technique
-on [GitHub](https://github.com/agoldst/dfr-analysis). Â If you are
+on [GitHub](https://github.com/agoldst/dfr-analysis). If you are
 comfortable, feel free to do it yourself!
 
-Â 
 
-### Week 6: October 13:Â Spatializing the Problem Part 1
+### Week 6: October 13: Spatializing the Problem Part 1
 
 Reading and Discussion:
 
@@ -177,28 +174,28 @@ Reading and Discussion:
     Future of
     History](http://link.springer.com/book/10.1007%2F978-94-007-5009-8).â p.
     1-13. History and GIS: Epistomologies, Considerations and
-    Reflections. Springer, 2013. Â (Free PDF online through Yale)
--   Guldi, Jo. â[What is the Spatial
-    Turn.](http://spatial.scholarslab.org/spatial-turn/)â There are
+    Reflections. Springer, 2013. (Free PDF online through Yale)
+-   Guldi, Jo. [What is the Spatial
+    Turn.](http://spatial.scholarslab.org/spatial-turn/) There are
     several explanations by discipline. Read the following: Literature,
     Art History, and History.
--   White, Richard. â[What is spatial
+-   White, Richard. [What is spatial
     history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?â
     Feburary 1, 2010.
--   Shnayder, Evgenia. â[A Data Model for Spatial
+-   Shnayder, Evgenia. [A Data Model for Spatial
     History.](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)â
     November 15, 2010.
 -   Practicum: CartoDB Part 1
 
-### Week 7: October 20:Â Critical Assets: Postcolonial Critique
+### Week 7: October 20: Critical Assets: Postcolonial Critique
 
 Reading and Discussion:
 
 -   From Debates in Digital Humanities\
-    Alan Liu, âWhere is cultural criticism in the Digital Humanities.â
+    Alan Liu, Where is cultural criticism in the Digital Humanities.â
 -   Postcolonial DH. [Read the post and the
     comments.](http://dhpoco.org/blog/2013/05/10/open-thread-the-digital-humanities-as-a-historical-refuge-from-raceclassgendersexualitydisability/)
--   Lui, Allen. âThe Meaning of the Digital Humanities.â PMLA. 128
+-   Lui, Allen. The Meaning of the Digital Humanities.â PMLA. 128
     (2013): 409-23.
 -   Explore [Postcolonial
     DH](https://urldefense.proofpoint.com/v2/url?u=http-3A__dhpoco.org_&d=AwICAg&c=-dg2m7zWuuDZ0MUcV7Sdqw&r=2B2Wh4JwM2WaNJE4ZmKHdCiQBsvy7GX0bkCgSQelIxU&m=pLxRtmo6yMyWrelCyc5JZXniDRbDC5TOr3atUUnS8X0&s=kw8d86D4KsCYWQ5KwazWAcu4ZGppwI92o8eAjiZxkw0&e=).
@@ -284,8 +281,8 @@ Reading and Discussion:
 -   Jussi Parikka, âArchives in Media Theory: Material Media Archeology
     and Digital Humanities,â in David M. Berry, Ed., Understanding
     Digital Humanities, Palgrave-Macmillan, 2012, 85-104.
--   Kristen weld, âFighting Guatemalaâs Archive Wars: Documentation,
-    Mobilization, Justice,â in Carlos Aguirre and Javier Villa-Flores,
+-   Kristen weld, Fighting Guatemalaâs Archive Wars: Documentation,
+    Mobilization, Justice, in Carlos Aguirre and Javier Villa-Flores,
     eds., From the Ashes of History: Loss and Recovery in Archives and
     Libraries in Modern Latin America (Raleigh: Editorial A
     Contracorriente, 2015), 227-264.
@@ -295,54 +292,7 @@ Reading and Discussion:
 
 Presentation of Project Descriptions
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="footerwrap">
-
-<div class="footer-widgets clearfix">
-
-<div class="col3-1 first">
-
-</div>
-
-<div class="col3-1">
-
-</div>
-
-<div class="col3-1">
-
-</div>
-
-</div>
-
-[](#header "Back To Top"){.icon-up}
-
-<div class="footer-text clearfix">
-
-<div class="one">
-
-Â© [(En)visualizing Knowledge](http://amst906f2015.coursepress.yale.edu)
-2017
-
-</div>
-
-<div class="two">
-
-Powered by [WordPress](http://wordpress.org) â¢ [Themify WordPress
-Themes](http://themify.me)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+ 
+ 
+ 
+ 
