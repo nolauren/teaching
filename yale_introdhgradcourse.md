@@ -5,7 +5,7 @@
 -   [Assignments](http://amst906f2015.coursepress.yale.edu/assignments-2/)
 -   [Tutorials](http://amst906f2015.coursepress.yale.edu/tutorials-2/)
 
- 
+(Encoding errors due to transfer from course wordpress site.)
 
 Syllabus  
 ========
