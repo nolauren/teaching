@@ -204,7 +204,7 @@ Reading and Discussion:
 
 Reading and discussion:
 
--   Adriane de Souza e Silva, âMobile Narratives: Reading and Writing
+-   Adriane de Souza e Silva, Mobile Narratives: Reading and Writing
     Urban Space with Location-Based Technologies,â in Hayles, N.
     Katherine and Pressman, Jessica, Comparative Textual Media:
     Transforming the Humanities in the Postprint Era, 33- 52.
@@ -229,13 +229,13 @@ Reading and Discussion: TBD
 
 Reading and Discussion:
 
--   Weingart, Scott. â[Topic Modeling and Network
+-   Weingart, Scott. [Topic Modeling and Network
     Analysis.](http://www.scottbot.net/HIAL/?p=221)  The scottbot
     irregular.
--   Weingart, Scott. â[Contextualizing networks with
+-   Weingart, Scott. [Contextualizing networks with
     maps.](http://www.scottbot.net/HIAL/?p=1942) The scottbot
     irregular.
--   Cordell, Ryan, âUncovering Reprinting Networks in Nineteenth-Century
+-   Cordell, Ryan, Uncovering Reprinting Networks in Nineteenth-Century
     American Periodicals. Am Lit Hist - http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/ 
 -   Edward Arriaga, Fernando Caparini and Juan Luis Suarez,  [Modeling
     Afro-Latin American Artistic Representations in Topic Maps: Cubaâs
@@ -269,7 +269,7 @@ Reading and Discussion:
 
 -   Alex Poole, [Now is the Future Now? The Urgency of Digital Curation
     in the Digital
-    Humanities.](http://www.digitalhumanities.org/dhq/vol/7/2/000163/000163.html)â
+    Humanities.](http://www.digitalhumanities.org/dhq/vol/7/2/000163/000163.html)
 -   Jussi Parikka,  Archives in Media Theory: Material Media Archeology
     and Digital Humanities,  in David M. Berry, Ed., Understanding
     Digital Humanities, Palgrave-Macmillan, 2012, 85-104.
