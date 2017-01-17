@@ -107,7 +107,7 @@ From Matthew Gold, ed, Debates in Digital Humanities
 
 Reading and Discussion:
 
--   Hockey, Susan. The History of Humanities Computing. In Companion
+-   Hockey, Susan. The History of Humanities Computing. In Companion
     to Digital Humanities, edited by Susan Schreibman, Ray Siemens, and
     John Unsworth. Oxford: Blackwell, 2004.
 -   Moretti, Franco, Graphs, Maps, Trees, Verso, 2007
@@ -158,7 +158,7 @@ or you need to select a subset. If you do not, you will get a random
 generated subset from JStor.
 
 Once you have the data, please email me. The data will need to be processed and we are using Andrew
-Goldstone's
+Goldstone's
 [Count2Text](https://github.com/agoldst/dfr-analysis/blob/master/count2txt)technique
 on [GitHub](https://github.com/agoldst/dfr-analysis). If you are
 comfortable, feel free to do it yourself!
@@ -192,7 +192,7 @@ Reading and Discussion:
 Reading and Discussion:
 
 -   From Debates in Digital Humanities\
-    Alan Liu, Where is cultural criticism in the Digital Humanities.â
+    Alan Liu, Where is cultural criticism in the Digital Humanities.
 -   Postcolonial DH. [Read the post and the
     comments.](http://dhpoco.org/blog/2013/05/10/open-thread-the-digital-humanities-as-a-historical-refuge-from-raceclassgendersexualitydisability/)
 -   Lui, Allen. The Meaning of the Digital Humanities. PMLA. 128
@@ -205,7 +205,7 @@ Reading and Discussion:
 Reading and discussion:
 
 -   Adriane de Souza e Silva, Mobile Narratives: Reading and Writing
-    Urban Space with Location-Based Technologies,â in Hayles, N.
+    Urban Space with Location-Based Technologies, in Hayles, N.
     Katherine and Pressman, Jessica, Comparative Textual Media:
     Transforming the Humanities in the Postprint Era, 33- 52.
 -   Crampton, Jeremy. Mapping: A Critical Introduction to Cartography
@@ -238,9 +238,9 @@ Reading and Discussion:
 -   Cordell, Ryan, Uncovering Reprinting Networks in Nineteenth-Century
     American Periodicals. Am Lit Hist - http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/ 
 -   Edward Arriaga, Fernando Caparini and Juan Luis Suarez,  [Modeling
-    Afro-Latin American Artistic Representations in Topic Maps: Cubaâs
+    Afro-Latin American Artistic Representations in Topic Maps: Cuba's
     Prominence in Latin American
-    Discourse](http://www.digitalhumanities.org/dhq/vol/7/1/000145/000145.html). 
+    Discourse (http://www.digitalhumanities.org/dhq/vol/7/1/000145/000145.html). 
 -   Moretti [Network Theory, Plot
     Analysis.](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 -   Practicum: Gephi
@@ -252,14 +252,14 @@ Reading and Discussion:
 -   Matthew Kirshenbaum  Editor's Introduction: Image-Based Humanities
     Computing,  Computers and the Humanities, vol. 36, no. 1, feb 2002,
     3-6.
--   Bethany Nowviskie,  Select Resources for Image-Based Humanities
+-   Bethany Nowviskie, Select Resources for Image-Based Humanities
     Computing, Computers and the Humanities, vol. 36, no. 1, feb 2002,
     109-131.
 -   Lev Manovich,  How to Compare One Million Images? in David M. Berry,
     Ed., Understanding Digital Humanities, Palgrave-Macmillan, 2012,
     249-278
 -   Adelheid Heftberger,  Do Computers Dream of Cinema? Film Data for
-    Computer Analysis and Visualization,â in David M. Berry, Ed.,
+    Computer Analysis and Visualization, in David M. Berry, Ed.,
     Understanding Digital Humanities, Palgrave-Macmillan, 2012, pp
     210-223.
 
@@ -274,7 +274,7 @@ Reading and Discussion:
     and Digital Humanities,  in David M. Berry, Ed., Understanding
     Digital Humanities, Palgrave-Macmillan, 2012, 85-104.
 -   Kristen weld, Fighting Guatemala's Archive Wars: Documentation,
-    Mobilization, Justice, in Carlos Aguirre and Javier Villa-Flores,
+    Mobilization, Justice,  in Carlos Aguirre and Javier Villa-Flores,
     eds., From the Ashes of History: Loss and Recovery in Archives and
     Libraries in Modern Latin America (Raleigh: Editorial A
     Contracorriente, 2015), 227-264.
