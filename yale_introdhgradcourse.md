@@ -16,6 +16,10 @@ Syllabus
 
 The Mellon Graduate Concentration in the Digital Humanities  
 
+Laura Wexler
+Inderpal Grewal
+Lauren Tilton
+
 Yale University, Fall 2015 
 
 Required texts
