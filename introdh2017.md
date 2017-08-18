@@ -64,9 +64,9 @@ behind the University of Richmond firewall).
 <span>**Schedule:**</span>
 *Part 1: What is Digital Humanities?*
 
--   2016-08-23: Practicum: Explore DH projects
+-   2016-08-28: Practicum: Explore DH projects
 
--   2016-08-25: The big tent of DH
+-   2016-08-30: The big tent of DH
 
     -   [Hockey, Susan. “The History of Humanities Computing.” In
         Companion to Digital Humanities, edited by Susan Schreibman, Ray
@@ -81,7 +81,7 @@ behind the University of Richmond firewall).
     -   [Berry, David. “The Computational Turn: Thinking About the
         Digital Humanities.” Culture Machine Vol 12, 2011.] (http://www.culturemachine.net/index.php/cm/article/viewarticle/440)
 
--   2016-08-30: Humanities ‘data’
+-   2016-09-04: Humanities ‘data’
 
     -   [Kramer, Michael. “What Does Digital Humanities bring to the
         Table?”](http://www.michaeljkramer.net/cr/what-does-digital-humanities-bring-to-the-table/)
@@ -90,9 +90,9 @@ behind the University of Richmond firewall).
 
     -   [Posner, Miriam. “Humanities Data: A Necessary Contradiction”](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
--   2016-09-01: Practicum: Introduction to the command line and GitHub
+-   2016-09-06: Practicum: Introduction to the command line and GitHub
 
--   2016-09-06: Methods for computational analysis
+-   2016-09-11: Methods for computational analysis
 
     -   [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software.
         Vol 59. Issue 10. August 2014.] (http://vita.had.co.nz/papers/tidy-data.pdf)
@@ -100,11 +100,11 @@ behind the University of Richmond firewall).
     -   [Schöch, Christof. “Big? Smart? Clean? Messy? Data in
         the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
--   2016-09-08: Practicum: Tidy Data
+-   2016-09-13: Practicum: Tidy Data
 
 Part 2: Text Analysis
 
--   2016-09-13: Distant reading
+-   2016-09-18: Distant reading
 
     -   [Schultz, Kathryn. “What is Distant Reading?” New York Times.
         June 26, 2011.](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html)
@@ -112,9 +112,9 @@ Part 2: Text Analysis
     -   Moretti, Franco. Graphs, Maps, Trees. Verso. 2007.
         (Chapters 1-2). To be provided.
 
--   2016-09-15: Practicum: Voyant and Google Ngrams
+-   2016-09-20: Practicum: Voyant and Google Ngrams
 
--   2016-09-20: Topic modeling I
+-   2016-09-25: Topic modeling I
 
     -   [Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal
         of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
@@ -131,9 +131,9 @@ Part 2: Text Analysis
     -   In class: Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/) 
     and [Signs at 40] (http://signsat40.signsjournal.org/)
 
--   2016-09-22: Practicum: Using Mallet I
+-   2016-09-27: Practicum: Using Mallet I
 
--   2016-09-27: Topic modeling II
+-   2016-10-02: Topic modeling II
 
         
   -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
@@ -148,9 +148,9 @@ Part 2: Text Analysis
         Truman Capote and ‘Go Set a Watchman.” Wall Street Journal. July
         15, 2015.](http://blogs.wsj.com/speakeasy/2015/07/15/go-set-a-watchman-harper-lee-truman-capote/)
 
--   2016-09-29: Practicum: Using Mallet II - Modeling with JStor Data
+-   2016-10-04: Practicum: Using Mallet II - Modeling with JStor Data
 
--   2016-10-04: Topic Modeling
+-   2016-10-09: Topic Modeling
 
 
     -   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
@@ -166,13 +166,13 @@ Part 2: Text Analysis
     - XML and TEI mini-lab
 
 
--   2016-10-06: Text Analysis Response Due  
+-   2016-10-11: Text Analysis Response Due  
 
 Part 3: Spatial DH
 
--   2016-10-11: Fall Study Break 
+-   2016-10-16: Fall Study Break 
 
--   2016-10-13: Spatial history
+-   2016-10-18: Spatial history
     -   Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the
         Future of History.”](https://github.com/introdh2016/other/blob/master/BeyondGIS.pdf) p. 1-13. History and GIS: Epistomologies,
         Considerations and Reflections. Springer, 2013.  
@@ -185,12 +185,12 @@ Part 3: Spatial DH
  -   In class: Explore [Photogrammar](http://dsl.richmond.edu/dispatch/) 
     and [American Panorama] (http://dsl.richmond.edu/panorama/)
 
--   2016-10-18: Discuss collection of NEH Grants & project proposals
+-   2016-10-23: Discuss collection of NEH Grants & project proposals
      - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
 
--   2016-10-20: No Class
+-   2016-10-25: No Class
 
--   2016-10-25: Practicum: ArcGIS Part I
+-   2016-10-30: Practicum: ArcGIS Part I
 
     - Location: Spatial Analysis Lab (300 Weinstein International) 
     
@@ -198,7 +198,7 @@ Part 3: Spatial DH
         Cartography and GIS. Wiley-Blackwell, 2010.](https://github.com/introdh2016/other)
 
     
--   2016-10-27:  Practicum: ArcGIS Part II
+-   2016-11-01:  Practicum: ArcGIS Part II
 
      - Location: Spatial Analysis Lab (300 Weinstein International) 
 
@@ -206,7 +206,7 @@ Part 3: Spatial DH
 
 Part 4: Network Analysis
 
--   2016-11-01: Social networks
+-   2016-11-06: Social networks
 
     -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1)
     
@@ -214,12 +214,12 @@ Part 4: Network Analysis
     
     -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
--   2016-11-03: Practicum: Gephi Part I
+-   2016-11-08: Practicum: Gephi Part I
 
--   2016-11-08: Practicum: Gephi Part II 
+-   2016-11-13: Practicum: Gephi Part II 
 
 
--   2016-11-10: Layering Networks
+-   2016-11-15: Layering Networks
 
       -   Spatial Analysis Response Due
 
@@ -230,7 +230,7 @@ Part 4: Network Analysis
 
 Part 5: \#transformDH
 
--   2016-11-15: The role of code
+-   2016-11-20: The role of code
 
   
     -   [Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
@@ -243,19 +243,19 @@ Part 5: \#transformDH
         Statistics in DH”. Debates in the Digital Humanities, 2017.
         Pre-Print. (To be provided.)
 
--   2016-11-17: Coding
+-   2016-11-27: Coding
 
 <!-- -->
 
--   2016-11-22: Critical techniques
+-   2016-11-29: Critical techniques
 
     - Network Analysis Response Due
 
  
        
--   2016-11-24: Thanksgiving Break
+-   2016-11-04: Thanksgiving Break
 
--   2016-11-29: Critical DH
+-   2016-11-06: Critical DH
 
     -   [McPherson, Tara. “Why Are the Digital Humanities So White? Or
         Thinking the Histories of Race and Computation.” Debates in the
@@ -270,7 +270,7 @@ Part 5: \#transformDH
         
        
 
--   2016-12-01: Project presentations
+-   2017-##-##: Project presentations
 
 
 <span>**Late Work:**</span>
