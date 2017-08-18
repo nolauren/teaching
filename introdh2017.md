@@ -1,16 +1,16 @@
 # Syllabus
 
-<span>**CLSC 398/ IDSD 299/ RHCS 279: Introduction to Digital
+<span>**AMST 298/ CLSC 398/ IDST 299/ RHCS 279: Introduction to Digital
 Humanities**</span> | 
 
-Fall 2017 | TBD |  Learn Lab
+Fall 2017 | 1:30-2:45 | MRC LL1 - Learn Lab
 
   ------------------------------ ----------------------------------------------------
   <span>**Instructor:**</span>   <span>**Dr. Lauren Tilton**</span>
   
 [ltilton@richmond.edu](mailto:lilton@richmond.edu) | 
 184 Boatwright Memorial Library | 
- Thursday 11:45-1:00 
+Office Hours: MT 2:30-4:00
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
@@ -49,43 +49,11 @@ The course will culminate in a final project.
 
 -   20% Participation
 
--   30% Short Projects (10% each. Rubric will be provided.)
+-   40% Short Assignments (10% each. Rubric will be provided.)
 
--   50% Final Project
+-   40% Final Project
 
-<span>**Late Work:**</span>
-Turning in late work reflects poorly on you. Please avoid it at all
-costs. Any late work receives a letter grade deduction for each class
-period it is late.
 
-<span>**Academic Integrity:**</span>
-Students are expected to pledge the following statement on all
-assignments turned in for credit, including exams, papers and laboratory
-reports: "I pledge that I have neither received nor given unauthorized
-assistance during the completion of this work.” Academic honesty
-is—defined broadly and simply—the performance of all academic work
-without cheating, lying, stealing, or receiving assistance from any
-other person or using any source of information not appropriately
-authorized or attributed. The University of Richmond and I personally
-take academic honesty very seriously. All students are responsible for
-maintaining the highest standards of honesty and integrity in every
-phase of their academic careers. The penalties for academic dishonesty
-are severe and ignorance is not an acceptable defense. For more
-information on URʼs commitment to building intellectual integrity,
-visit:
-http://studentdevelopment.richmond.edu/student-handbook/honor/the-honor-code.html
-
-<span>**Attendance:**</span>
-Students are responsible for all information in the class, regardless of
-their personal attendance. If a student is absent, it is their
-responsibility to inquire about what they have missed. Absences due to
-university activities (e.g., sports, debate, etc.) must be discussed
-with the instructor before the relevant class period(s). An official
-notice must be shown to the instructor. Arrangements concerning absences
-are entirely at the instructor’s discretion. Absences, unless for
-documented illness, emergency, or university business, will result in a
-loss of participation points. More than 5 absences may result in an “F”
-for the semester.
 
 <span>**Readings:**</span>
 Most of the readings in this course consist of journal articles, blog
@@ -305,3 +273,38 @@ Part 5: \#transformDH
 -   2016-12-01: Project presentations
 
 
+<span>**Late Work:**</span>
+Turning in late work reflects poorly on you. Please avoid it at all
+costs. Any late work receives a half a letter grade deduction for each day
+it is late. Congrats! You've almost make it through this syllabus. 
+If you've read this by September 10, email me your favorite meme. 
+Your reward: If you need any extra day on a paper, you have it!
+
+<span>**Academic Integrity:**</span>
+Students are expected to pledge the following statement on all
+assignments turned in for credit, including exams, papers and laboratory
+reports: "I pledge that I have neither received nor given unauthorized
+assistance during the completion of this work.” Academic honesty
+is—defined broadly and simply—the performance of all academic work
+without cheating, lying, stealing, or receiving assistance from any
+other person or using any source of information not appropriately
+authorized or attributed. The University of Richmond and I personally
+take academic honesty very seriously. All students are responsible for
+maintaining the highest standards of honesty and integrity in every
+phase of their academic careers. The penalties for academic dishonesty
+are severe and ignorance is not an acceptable defense. For more
+information on URʼs commitment to building intellectual integrity,
+visit:
+http://studentdevelopment.richmond.edu/student-handbook/honor/the-honor-code.html
+
+<span>**Attendance:**</span>
+Students are responsible for all information in the class, regardless of
+their personal attendance. If a student is absent, it is their
+responsibility to inquire about what they have missed. Absences due to
+university activities (e.g., sports, debate, etc.) must be discussed
+with the instructor before the relevant class period(s). An official
+notice must be shown to the instructor. Arrangements concerning absences
+are entirely at the instructor’s discretion. Absences, unless for
+documented illness, emergency, or university business, will result in a
+loss of participation points. More than 5 absences may result in an “F”
+for the semester.
