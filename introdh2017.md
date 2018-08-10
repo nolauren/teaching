@@ -134,8 +134,6 @@ Part 2: Text Analysis
 -   2016-09-27: Practicum: Using Mallet I
 
 -   2016-10-02: Topic modeling II
-
-        
   -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
         PMLA Teach Us About the History of Literary Scholarship?”
         Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)
@@ -151,14 +149,11 @@ Part 2: Text Analysis
 -   2016-10-04: Practicum: Using Mallet II - Modeling with JStor Data
 
 -   2016-10-09: Topic Modeling
-
-
--   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
+  - [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
         of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
-
- - As discussed in class, we will be focusing on Rhody's piece and topic modeling.  We will no longer be doing this section on Text Mark-Up. If you are interested in more about Text Mark-up, check out the following!  
+  - As discussed in class, we will be focusing on Rhody's piece and topic modeling.  We will no longer be doing this section on Text Mark-Up. If you are interested in more about Text Mark-up, check out the following!  
     - [Renear, Allen. "Text Encoding". A Companion to Digital Humanities. Edited by Susan Schreibman, Ray
-        Siemens, and John Unsworth. Oxford: Blackwell, 2004.] (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5&brand=9781405103213_brand)   
+        Siemens, and John Unsworth. Oxford: Blackwell, 2004.](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5&brand=9781405103213_brand)   
 
     - ["What is TEI?"](http://cdrh.unl.edu/articles/basicguide/TEI)
     
@@ -183,7 +178,7 @@ Part 3: Spatial DH
         15, 2010.](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)
         
  -   In class: Explore [Photogrammar](http://dsl.richmond.edu/dispatch/) 
-    and [American Panorama] (http://dsl.richmond.edu/panorama/)
+    and [American Panorama](http://dsl.richmond.edu/panorama/)
 
 -   2016-10-23: Discuss collection of NEH Grants & project proposals
      - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
@@ -212,7 +207,7 @@ Part 4: Network Analysis
     
     - Explore [Linked Jazz](https://linkedjazz.org/)  and [Signs at 40](http://signsat40.signsjournal.org/cocitation/). We will discuss in class. We will also look at [Wikipedia](xefer.com/WIKIPEDIA)
     
-    -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
+    -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
 -   2016-11-08: Practicum: Gephi Part I
 
