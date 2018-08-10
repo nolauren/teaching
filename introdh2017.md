@@ -73,20 +73,20 @@ behind the University of Richmond firewall).
         Siemens, and John Unsworth. Oxford: Blackwell, 2004.](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1)
 
     -   [Seefeldt, Douglas and William Thomas. “What is Digital History?”
-        Perspectives on History. May 2009.] (https://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/intersections-history-and-new-media/what-is-digital-history)
+        Perspectives on History. May 2009.](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/intersections-history-and-new-media/what-is-digital-history)
 
     -   [Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates
         in the Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/text/30)
 
     -   [Berry, David. “The Computational Turn: Thinking About the
-        Digital Humanities.” Culture Machine Vol 12, 2011.] (http://www.culturemachine.net/index.php/cm/article/viewarticle/440)
+        Digital Humanities.” Culture Machine Vol 12, 2011.](http://www.culturemachine.net/index.php/cm/article/viewarticle/440)
 
 -   2016-09-04: Humanities ‘data’
 
     -   [Kramer, Michael. “What Does Digital Humanities bring to the
         Table?”](http://www.michaeljkramer.net/cr/what-does-digital-humanities-bring-to-the-table/)
 
-    -   [Rosenberg, Daniel. “Data before the Fact.” 2013.] (http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
+    -   [Rosenberg, Daniel. “Data before the Fact.” 2013.](http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
 
     -   [Posner, Miriam. “Humanities Data: A Necessary Contradiction”](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
@@ -95,7 +95,7 @@ behind the University of Richmond firewall).
 -   2016-09-11: Methods for computational analysis
 
     -   [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software.
-        Vol 59. Issue 10. August 2014.] (http://vita.had.co.nz/papers/tidy-data.pdf)
+        Vol 59. Issue 10. August 2014.](http://vita.had.co.nz/papers/tidy-data.pdf)
 
     -   [Schöch, Christof. “Big? Smart? Clean? Messy? Data in
         the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
@@ -125,11 +125,11 @@ Part 2: Text Analysis
         
     -   [Meeks, Elijah and Scott Weingart. “The Digital Humanities
         Contribution to Topic Modeling.” Journal of Digital Humanities.
-        Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
+        Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
 
 
     -   In class: Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/) 
-    and [Signs at 40] (http://signsat40.signsjournal.org/)
+    and [Signs at 40](http://signsat40.signsjournal.org/)
 
 -   2016-09-27: Practicum: Using Mallet I
 
@@ -138,13 +138,13 @@ Part 2: Text Analysis
         
   -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
         PMLA Teach Us About the History of Literary Scholarship?”
-        Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)
+        Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)
         
         
-    -  [Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half". 
-        Variance Explained.(Blog).](http://varianceexplained.org/r/trump-tweets/)
+   - [Robinson, David. "Text analysis of Trump's tweets confirms he writes only the angrier Android half". 
+        Variance Explained.](http://varianceexplained.org/r/trump-tweets/) Blog.
 
-    -   [Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee,
+   -   [Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee,
         Truman Capote and ‘Go Set a Watchman.” Wall Street Journal. July
         15, 2015.](http://blogs.wsj.com/speakeasy/2015/07/15/go-set-a-watchman-harper-lee-truman-capote/)
 
@@ -153,14 +153,14 @@ Part 2: Text Analysis
 -   2016-10-09: Topic Modeling
 
 
-    -   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
+-   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
         of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
 
  - As discussed in class, we will be focusing on Rhody's piece and topic modeling.  We will no longer be doing this section on Text Mark-Up. If you are interested in more about Text Mark-up, check out the following!  
     - [Renear, Allen. "Text Encoding". A Companion to Digital Humanities. Edited by Susan Schreibman, Ray
         Siemens, and John Unsworth. Oxford: Blackwell, 2004.] (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5&brand=9781405103213_brand)   
 
-    - ["What is TEI?"] (http://cdrh.unl.edu/articles/basicguide/TEI)
+    - ["What is TEI?"](http://cdrh.unl.edu/articles/basicguide/TEI)
     
     - [Jockers, Matthew and Julia Flander. "A Matter of Scale."](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1106&context=englishfacpubs)
     - XML and TEI mini-lab
